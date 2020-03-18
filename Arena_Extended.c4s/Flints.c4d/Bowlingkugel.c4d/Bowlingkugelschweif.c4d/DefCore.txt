@@ -1,0 +1,12 @@
+[DefCore]
+id=0_F2
+Version=4,9,1,3
+Name=Bowlingkugelschweif
+Category=1
+Width=10
+Height=10
+Offset=-5,-5
+Collectible=0
+Rotate=1
+TimerCall=Fade
+Timer=1

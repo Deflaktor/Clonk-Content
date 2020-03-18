@@ -1,0 +1,5 @@
+[DefCore]
+id=SE_2
+Category=1
+Name=#appendto
+Picture=0,0,273,62

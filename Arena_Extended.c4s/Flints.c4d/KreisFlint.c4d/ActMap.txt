@@ -1,0 +1,6 @@
+[Action]
+Name=Healing
+FacetBase=1
+Delay=10
+EndCall=Heal
+NextAction=Healing

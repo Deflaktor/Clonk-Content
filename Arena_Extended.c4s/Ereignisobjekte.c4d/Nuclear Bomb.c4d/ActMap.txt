@@ -1,0 +1,7 @@
+[Action]
+Name=Activated
+Delay=35
+Facet=0,47,19,10,10,11
+FacetBase=1
+NextAction=Activated
+EndCall=CountDownExec

@@ -1,0 +1,7 @@
+[Action]
+Name=Blast
+Procedure=FLOAT
+Length=4
+Delay=1
+Facet=0,0,200,200
+EndCall=Remove

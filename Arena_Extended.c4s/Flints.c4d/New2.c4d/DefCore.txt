@@ -1,0 +1,17 @@
+[DefCore]
+id=VERN
+Name=New Object
+Category=18960
+MaxUserSelect=1
+Width=7
+Height=6
+Offset=-3,-3
+Value=10000
+Mass=0
+Components=_NEW=1;
+Picture=7,0,52,48
+Vertices=1
+VertexY=1
+VertexFriction=20
+Collectible=1
+ 

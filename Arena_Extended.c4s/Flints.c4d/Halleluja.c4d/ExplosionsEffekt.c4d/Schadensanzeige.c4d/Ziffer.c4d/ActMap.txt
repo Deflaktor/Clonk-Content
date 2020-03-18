@@ -1,0 +1,6 @@
+[Action]
+Name=Show
+Delay=0
+Length=10
+Facet=0,0,11,18
+NextAction=Show

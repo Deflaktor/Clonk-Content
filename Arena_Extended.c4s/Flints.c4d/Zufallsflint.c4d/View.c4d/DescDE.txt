@@ -1,0 +1,1 @@
+Über dieses Objekt erscheint die Anzeige, wie stark der Flint eingeschlagen ist.  Direkt über dem Flint ist es nicht möglich, weil dieser ja explodiert.

@@ -1,0 +1,15 @@
+[Action]
+Name=Check
+Procedure=NONE
+Delay=5
+Length=1
+EndCall=Check
+NextAction=Check
+
+[Action]
+Name=Wait4End
+Procedure=NONE
+Delay=5
+Length=1
+EndCall=RoundOverCheck
+NextAction=Wait4End

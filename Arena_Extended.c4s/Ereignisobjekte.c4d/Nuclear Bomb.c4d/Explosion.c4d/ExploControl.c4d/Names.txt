@@ -1,0 +1,2 @@
+DE:Explosionskontrollobjekt
+US:Detonate control object

@@ -1,0 +1,17 @@
+[DefCore]
+id=3QHS
+Name=Flare
+Category=1
+Width=16
+Height=20
+Offset=-8,-10
+Mass=1
+Picture=0,0,16,20
+Vertices=1
+VertexY=20
+VertexFriction=100
+StretchGrowth=1
+IncompleteActivity=1
+Oversize=1
+TimerCall=Remove
+Timer=5

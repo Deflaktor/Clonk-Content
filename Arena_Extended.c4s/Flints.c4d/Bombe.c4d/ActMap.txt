@@ -1,0 +1,17 @@
+[Action]
+Name=Setting
+Procedure=NONE
+Directions=2
+Length=6
+Delay=20
+Facet=10,0,10,9
+Sound=Fusing
+PhaseCall=Spark
+EndCall=Boom
+
+[Action]
+Name=SetColor
+Delay=1
+Facet=0,0,1,1
+NextAction=Idle
+EndCall=SetMyColor

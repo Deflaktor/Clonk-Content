@@ -1,0 +1,2 @@
+DE:A Template Objekt
+US:A Template Object

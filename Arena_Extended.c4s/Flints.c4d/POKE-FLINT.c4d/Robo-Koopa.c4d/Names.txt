@@ -1,0 +1,2 @@
+DE:Robo-Koopa
+US:A new object

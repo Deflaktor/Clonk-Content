@@ -1,0 +1,13 @@
+[DefCore]
+id=SPRK
+Name=Funke
+Category=4
+Width=9
+Height=9
+Offset=-4,-4
+Mass=1
+Picture=0,0,9,9
+Vertices=1
+VertexFriction=100
+StretchGrowth=1
+NoBurnDecay=1

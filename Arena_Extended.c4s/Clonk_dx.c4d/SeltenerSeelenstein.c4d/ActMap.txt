@@ -1,0 +1,17 @@
+[Action]
+Name=Timer
+Procedure=NONE
+Directions=1
+Length=1
+Delay=5000
+Facet=0,0,7,9
+NextAction=Futsch
+
+[Action]
+Name=Futsch
+Procedure=NONE
+Directions=1
+Length=4
+Delay=20
+Facet=0,0,7,9
+EndCall=Delete

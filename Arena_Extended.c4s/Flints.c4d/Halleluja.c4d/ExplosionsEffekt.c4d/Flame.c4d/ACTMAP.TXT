@@ -1,0 +1,9 @@
+[Action]
+Name=Blast
+Procedure=NONE
+Directions=2
+Length=32
+Delay=1
+Facet=0,0,60,60
+PhaseCall=Smoke
+EndCall=Remove

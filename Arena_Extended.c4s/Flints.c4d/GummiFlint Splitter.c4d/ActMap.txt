@@ -1,0 +1,13 @@
+[Action]
+Name=Checking
+Delay=1
+Facet=0,0,6,6
+NextAction=Checking
+StartCall=Checkit
+
+[Action]
+Name=BlowUp
+Delay=1
+Facet=0,0,6,6
+NextAction=BlowUp
+EndCall=BlowUp

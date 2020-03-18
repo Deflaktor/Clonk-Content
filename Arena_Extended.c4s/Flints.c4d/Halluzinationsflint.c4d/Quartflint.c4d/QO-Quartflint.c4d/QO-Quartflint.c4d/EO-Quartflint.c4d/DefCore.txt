@@ -1,0 +1,20 @@
+[DefCore]
+id=QT12
+Name=Ex-Omega Quartflint
+Version=4,6,0
+Category=4
+Width=7
+Height=7
+Offset=-4,-4
+Value=60
+Mass=12
+Components=QT11=10;SPHR=20;
+Picture=7,0,53,48
+Vertices=1
+VertexY=1
+VertexFriction=20
+Rebuy=1
+Fragile=1
+Projectile=1
+Explosive=1
+Rotate=1

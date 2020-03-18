@@ -1,0 +1,7 @@
+[Action]
+Name=Exist
+Procedure=FLOAT
+Length=10
+Delay=1
+Facet=0,0,10,10
+EndCall=Remove

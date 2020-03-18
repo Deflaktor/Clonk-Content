@@ -1,0 +1,7 @@
+
+SmokeDark
+Fire
+SmokeLight
+Explosion
+Ellipse
+Poot

@@ -1,0 +1,2 @@
+Löscht Objekte in der Umgebung, aber keine Verbündete. Gelöschte Gegner und Wertgegenstände werden dem Konto gutgeschrieben.
+Radius 144. Kann mit anderen Removern fusioniert werden auf Doppel-Graben.

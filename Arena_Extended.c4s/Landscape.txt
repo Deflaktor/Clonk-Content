@@ -1,0 +1,58 @@
+
+
+map Arena
+{
+  overlay 
+    { 
+      algo=poly; mat=Earth; tex=Ridge;
+
+      point { x=0%; y=20%; };
+      point { x=10%; y=22%; };
+      point { x=12%; y=24%; };
+      point { x=20%; y=35%; };
+
+      point { x=30%; y=48%; };
+
+      point { x=40%; y=55%; };
+      point { x=50%; y=53%; };
+      point { x=60%; y=55%; };
+
+      point { x=70%; y=48%; };
+
+      point { x=80%; y=35%; };
+      point { x=88%; y=25%; };
+      point { x=90%; y=24%; };
+      point { x=100%; y=20%; };
+
+      // ---
+      point { x=150%; y=20%; };
+      point { x=150%; y=150%; };
+      point { x=-50%; y=150%; };
+      point { x=-50%; y=20%; };
+   //   turbulence=10;
+   //   lambda=2;
+      loosebounds=1; 
+    };
+ /*
+ overlay 
+    { 
+      algo=poly; mat=FlatEarth; tex=Ridge;
+
+      point { x=0%; y=40%; };
+      point { x=8%; y=40%; };
+      point { x=8%; y=45%; };
+      point { x=0%; y=45%; };
+
+      loosebounds=1; 
+    };
+  overlay 
+    { 
+      algo=poly; mat=FlatEarth; tex=Ridge;
+      point { x=100%; y=40%; };
+      point { x=92%; y=40%; };
+      point { x=92%; y=45%; };
+      point { x=100%; y=45%; };
+      loosebounds=1; 
+    };*/
+};
+

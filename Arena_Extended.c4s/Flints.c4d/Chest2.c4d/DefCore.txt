@@ -1,0 +1,17 @@
+[DefCore]
+id=CHS2
+Name=Chest
+Category=4
+Width=8
+Height=8
+Offset=-4,-4
+Value=20
+Mass=5
+Components=WOOD=2;METL=1;
+Picture=8,0,35,35
+Vertices=1
+VertexY=2
+VertexFriction=50
+Collectible=1
+Oversize=1
+ColorByOwner=1

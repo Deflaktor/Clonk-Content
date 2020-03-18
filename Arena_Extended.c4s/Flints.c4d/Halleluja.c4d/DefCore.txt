@@ -1,0 +1,24 @@
+[DefCore]
+id=KAC5
+Name=Heilige Granate
+Category=18960
+MaxUserSelect=10
+Width=9
+Height=9
+Offset=-3,-3
+Value=8
+Mass=6
+Components=TFLN=1;SPHR=2;
+Picture=6,0,52,48
+Vertices=8
+VertexX=0,3,4,2,-1,-4,-5,-3
+VertexY=-5,-3,0,3,4,2,-1,-4
+VertexFriction=20
+Rebuy=1
+Collectible=1
+Explosive=1
+Rotate=1
+Fragile=1
+Projectile=1
+StretchGrowth=1
+Oversize=1

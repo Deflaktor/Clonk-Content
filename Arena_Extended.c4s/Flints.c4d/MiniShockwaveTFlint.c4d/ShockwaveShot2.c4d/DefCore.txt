@@ -1,0 +1,15 @@
+[DefCore]
+id=SWE7
+Version=4,6,1
+Name=Shockwave-Shot
+Category=16
+Width=10
+Height=10
+Offset=-5,-5
+Mass=0
+Picture=20,10,10,10
+Components=SWE2=1;
+StretchGrowth=1
+Oversize=1
+Vertices=1
+Vertexy=1

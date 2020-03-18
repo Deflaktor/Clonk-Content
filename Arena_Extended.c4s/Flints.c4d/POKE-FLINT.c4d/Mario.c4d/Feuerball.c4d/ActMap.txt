@@ -1,0 +1,13 @@
+[Action]
+Name=Start
+Delay=1
+Facet=0,0,8,8
+NextAction=Checking
+EndCall=Init
+
+[Action]
+Name=Checking
+Delay=1
+Facet=0,0,8,8
+NextAction=Checking
+EndCall=Checkit

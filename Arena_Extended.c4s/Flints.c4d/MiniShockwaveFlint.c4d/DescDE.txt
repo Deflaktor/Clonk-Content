@@ -1,0 +1,1 @@
+Erzeugt eine kleine Schockwelle, welche Lebewesen wegschleudert und abhängig zur Distanz Schaden anrichtet.

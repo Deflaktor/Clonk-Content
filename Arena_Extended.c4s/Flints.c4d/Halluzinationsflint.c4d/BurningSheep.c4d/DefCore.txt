@@ -1,0 +1,18 @@
+[DefCore]
+id=QTAF
+Name=Brennendes Schaf
+Version=4,6,0
+Category=4
+Width=36
+Height=36
+Offset=-18,-18
+Value=60
+Mass=12
+Picture=0,0,36,36
+Vertices=4
+VertexX=-3,3,-3,3
+VertexY=-3,-3,3,3
+VertexFriction=100
+Fragile=1
+Projectile=1
+Explosive=1

@@ -1,0 +1,14 @@
+[Action]
+Name=Sparkle
+Delay=2
+Length=10
+Facet=0,0,9,9,0,0
+NextAction=Disappear
+
+[Action]
+Name=Disappear
+Delay=1
+Length=1
+Facet=87,0,9,9,0,0
+NextAction=Disappear
+StartCall=Remove

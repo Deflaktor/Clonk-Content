@@ -1,0 +1,12 @@
+[DefCore]
+id=_SDH
+Name=New Object
+Category=1
+Width=6
+Height=6
+Offset=-3,-3
+Vertices=1
+VertexY=1
+VertexFriction=20
+TimerCall=Help
+Timer=1

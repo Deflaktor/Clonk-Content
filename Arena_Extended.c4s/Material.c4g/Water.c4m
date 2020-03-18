@@ -1,0 +1,11 @@
+[Material]
+Name=Water
+Color=86,86,86,106,106,106,126,126,126
+Shape=2
+Density=50
+Friction=1
+MaxAirSpeed=100
+MaxSlide=250
+BlastShiftTo=Gold
+Placement=50
+TextureOverlay=Rock

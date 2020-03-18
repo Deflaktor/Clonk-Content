@@ -1,0 +1,20 @@
+[DefCore]
+id=GKKE
+Name=Kamikaze erscheinen
+Category=65
+MaxUserSelect=20
+Timer=100
+TimerCall=DoRocks
+Width=16
+Height=16
+Offset=-3,-3
+Value=10
+Mass=10
+Components=_NEW=1;
+Picture=6,0,52,48
+PictureFE=6,0,52,48
+Vertices=1
+VertexY=1
+VertexFriction=20
+Rebuy=1
+ 

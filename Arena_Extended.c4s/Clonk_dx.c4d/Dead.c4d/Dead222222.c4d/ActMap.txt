@@ -1,0 +1,6 @@
+[Action]
+Name=Smaller
+Procedure=NONE
+Delay=10
+EndCall=MakeSmaller
+NextAction=Smaller

@@ -1,0 +1,2 @@
+DE:Zielsuch Vogel Flint
+US:Autotarget Bird Flint

@@ -1,0 +1,17 @@
+[DefCore]
+id=QTF1
+Name=Quartflint
+Category=4
+Width=7
+Height=7
+Offset=-4,-4
+Value=5
+Mass=10
+Components=SPHR=1;
+Picture=7,0,53,48
+Vertices=1
+VertexY=1
+VertexFriction=20
+Rebuy=1
+Rotate=1
+ 

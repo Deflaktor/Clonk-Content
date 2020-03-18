@@ -1,0 +1,8 @@
+[Action]
+Name=Exist
+Procedure=NONE
+FacetBase=1
+NextAction=Exist
+Delay=1
+PhaseCall=FadeOut
+DigFree=5

@@ -1,0 +1,19 @@
+[DefCore]
+id=_POW
+Name=Pegasus Schuh
+Category=2576
+MaxUserSelect=5
+Width=20
+Height=11
+Offset=-10,-5
+Value=200
+Mass=50
+Components=_POW=1;
+Picture=20,0,411,219
+Vertices=1
+VertexX=0
+VertexY=5
+VertexFriction=100
+Rebuy=1
+Collectible=1
+ 

@@ -1,0 +1,1 @@
+Ist dieses Ziel aktiviert, so können Spieler für einen gewissen Betrag den Gott-Modus aktivieren. Solange der Gott-Modus aktiv ist, läuft ein Sieges Counter. Ist der Counter bei 0, so gewinnt der Spieler der aktuell Gott ist. Der Betrag ist 100 Gold x diese Anzahl.

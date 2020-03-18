@@ -1,0 +1,7 @@
+[Action]
+Name=Count4Remove
+Procedure=FLOAT
+Facet=0,0,1,1
+Length=1
+Delay=50
+EndCall=Remove

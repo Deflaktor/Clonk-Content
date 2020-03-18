@@ -1,0 +1,8 @@
+[Action]
+Name=LittleBlast
+Procedure=FLOAT
+Length=4
+Delay=2
+Facet=0,0,64,64
+NextAction=LittleBlast
+EndCall=Action

@@ -1,0 +1,9 @@
+[Action]
+Name=Blast
+Length=9
+Delay=1
+Procedure=FLOAT
+Facet=0,0,64,64
+FacetBase=0
+NextAction=Blast
+Sound=Energy

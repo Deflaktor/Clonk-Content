@@ -1,0 +1,15 @@
+[Action]
+Name=Gestellt
+Length=1
+Delay=1
+FacetBase=1
+NextAction=Gestellt
+StartCall=Check4Living
+
+[Action]
+Name=Blow
+Length=1
+Delay=1
+FacetBase=1
+NextAction=Idle
+StartCall=Blow

@@ -1,0 +1,9 @@
+[Action]
+Name=Blowing
+Procedure=FLOAT
+Directions=2
+Length=1
+Delay=5
+Facet=0,0,16,20
+EndCall=BlowUp
+NextAction=Blowing

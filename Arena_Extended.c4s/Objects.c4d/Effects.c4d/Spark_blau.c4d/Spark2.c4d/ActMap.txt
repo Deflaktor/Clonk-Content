@@ -1,0 +1,7 @@
+[Action]
+Name=Kurz
+Length=19
+Delay=1
+Facet=0,0,1,1
+NextAction=Kurz
+EndCall=CU

@@ -1,0 +1,1 @@
+Zeigt an, ob der Panzer besetzt ist und weht neben bei noch im Wind.

@@ -1,0 +1,2 @@
+DE:Bowlingkugel
+US:Bowling ball

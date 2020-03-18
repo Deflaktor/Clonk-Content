@@ -1,0 +1,14 @@
+[DefCore]
+id=CTOT
+Name=Spark
+Version=4,6,5
+Category=2
+MaxUserSelect=10
+Width=35
+Height=35
+Offset=-18,-18
+Value=10
+Mass=10
+Components=CRYS=2;
+Picture=0,0,35,35
+Vertices=1

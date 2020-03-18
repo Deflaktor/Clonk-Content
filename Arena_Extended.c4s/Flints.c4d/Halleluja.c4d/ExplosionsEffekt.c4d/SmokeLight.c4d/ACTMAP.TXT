@@ -1,0 +1,17 @@
+[Action]
+Name=Justify
+Procedure=NONE
+Length=1
+Delay=1
+Facet=0,0,1,1
+EndCall=Setup
+NextAction=Blast
+
+[Action]
+Name=Blast
+Procedure=NONE
+Length=28
+Delay=1
+Facet=0,0,134,134
+PhaseCall=Decelerate
+EndCall=Remove

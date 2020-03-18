@@ -1,0 +1,11 @@
+[DefCore]
+id=PE7K
+Name=PhysicalTankEntrance
+Category=4
+Width=30
+Height=30
+Offset=-15,-15
+Mass=0
+Picture=30,0,41,28
+Entrance=-15,-15,30,30
+ColorByOwner=1

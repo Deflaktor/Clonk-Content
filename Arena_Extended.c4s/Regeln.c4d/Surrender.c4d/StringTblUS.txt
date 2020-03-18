@@ -1,0 +1,2 @@
+Aufgeben=Are you sure? - Yes
+NichtAufgeben=Are you sure? - No

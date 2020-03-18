@@ -1,0 +1,1 @@
+Enthält einige Objekte, die für die Effekte der Atomexplosion zuständig sind.

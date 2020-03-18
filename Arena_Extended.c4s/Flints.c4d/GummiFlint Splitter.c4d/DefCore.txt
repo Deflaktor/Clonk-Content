@@ -1,0 +1,23 @@
+[DefCore]
+id=SBOM
+Version=4,4,3
+Name=GummiFlint Splitter
+Category=18960
+MaxUserSelect=10
+Width=6
+Height=6
+Offset=-3,-3
+Value=5
+Mass=3
+Components=FLNT=1;
+Picture=6,0,52,48
+PictureFE=6,0,52,48
+Vertices=1
+VertexY=1
+VertexFriction=20
+Rebuy=1
+Collectible=1
+Fragile=1
+Explosive=1
+Projectile=1
+ 

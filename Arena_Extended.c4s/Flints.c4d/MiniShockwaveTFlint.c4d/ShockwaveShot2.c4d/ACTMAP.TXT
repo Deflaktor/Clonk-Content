@@ -1,0 +1,15 @@
+[Action]
+Name=Implode
+Procedure=FLOAT
+NextAction=Shockwave
+EndCall=Bumm
+Delay=1
+Length=1
+
+[Action]
+Name=Shockwave
+Procedure=FLOAT
+NextAction=Shockwave
+EndCall=Resize
+Delay=1
+Facet=0,40,200,200,-100,-95

@@ -1,0 +1,8 @@
+[Action]
+Name=Detonate
+Procedure=NONE
+Length=1
+Delay=1
+FacetBase=1
+NextAction=Detonate
+StartCall=DetonateExec

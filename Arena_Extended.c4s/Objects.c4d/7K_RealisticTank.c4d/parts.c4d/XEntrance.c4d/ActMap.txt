@@ -1,0 +1,7 @@
+[Action]
+Name=Exist
+Procedure=ATTACH
+Length=10
+Delay=50
+FacetBase=0
+NextAction=Exist

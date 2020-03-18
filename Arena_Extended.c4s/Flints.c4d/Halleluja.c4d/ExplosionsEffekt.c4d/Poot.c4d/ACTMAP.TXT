@@ -1,0 +1,15 @@
+[Action]
+Name=Justify
+Procedure=ATTACH
+Length=1
+Delay=1
+Facet=0,0,1,1
+NextAction=Blast
+
+[Action]
+Name=Blast
+Procedure=FLOAT
+Length=18
+Delay=1
+Facet=0,0,70,70
+EndCall=Remove

@@ -1,0 +1,2 @@
+Aufgeben=Wirklich aufgeben? - Ja
+NichtAufgeben=Wirklich aufgeben? - Nein

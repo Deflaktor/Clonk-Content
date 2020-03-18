@@ -1,0 +1,1 @@
+Sucht automatisch Feinde beim Werfen und teilt sich in so viele Teile wie es Feinde findet. Jedes Teil verfolgt automatisch ihren Feind.

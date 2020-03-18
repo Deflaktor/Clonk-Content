@@ -1,0 +1,14 @@
+[DefCore]
+id=HAL9
+Name=Kugel
+Category=4
+Width=3
+Height=3
+Offset=-1,-1
+Value=4
+Mass=15
+Components=FLNT=1;
+Picture=3,0,35,35
+Vertices=1
+VertexY=1
+Rebuy=1

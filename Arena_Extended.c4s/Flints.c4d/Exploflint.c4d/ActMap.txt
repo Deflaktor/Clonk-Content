@@ -1,0 +1,11 @@
+[Action]
+Name=Checking
+Delay=1
+Facet=0,0,6,6
+NextAction=Checking
+
+[Action]
+Name=Delay
+Delay=10
+Facet=0,0,6,6
+NextAction=Checking

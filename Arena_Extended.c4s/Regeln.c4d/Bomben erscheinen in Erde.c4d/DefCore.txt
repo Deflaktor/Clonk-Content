@@ -1,0 +1,17 @@
+[DefCore]
+id=BNMR
+Name=Bomben erscheinen in Erde
+Category=65
+MaxUserSelect=5
+Width=16
+Height=16
+Offset=-3,-3
+Value=10
+Mass=10
+Components=_NEW=1;
+Picture=0,0,19,18
+Vertices=1
+VertexY=1
+VertexFriction=20
+Rebuy=1
+ 

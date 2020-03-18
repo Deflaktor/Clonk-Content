@@ -1,0 +1,7 @@
+[Action]
+Name=Timer
+Procedure=NONE
+Length=1
+Delay=630
+EndCall=End
+NextAction=Idle

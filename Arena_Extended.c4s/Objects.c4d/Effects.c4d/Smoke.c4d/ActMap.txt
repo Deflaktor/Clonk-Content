@@ -1,0 +1,13 @@
+[Action]
+Name=Smoke
+Procedure=FLOAT
+Length=50
+Delay=3
+Facet=0,0,32,32
+FacetBase=0
+PhaseCall=Wind2Float
+NextAction=Remove
+
+[Action]
+Name=Remove
+StartCall=Remove

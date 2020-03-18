@@ -1,0 +1,22 @@
+[DefCore]
+id=XA3A
+Version=4,5,1
+Name=Intelligenter Sprengpfeil
+Category=16
+MaxUserSelect=10
+Width=8
+Height=7
+Offset=-4,-3
+Value=3
+Mass=5
+Components=ARRW=1;SPHR=1;
+Picture=8,0,60,38
+Vertices=2
+VertexY=-3,3
+VertexFriction=80,80
+Rebuy=1
+Collectible=1
+Rotate=1
+Float=1
+Fragile=1
+ 

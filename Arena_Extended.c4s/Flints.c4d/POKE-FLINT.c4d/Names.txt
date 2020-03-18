@@ -1,0 +1,2 @@
+DE:Pokeball
+US:Pokeball

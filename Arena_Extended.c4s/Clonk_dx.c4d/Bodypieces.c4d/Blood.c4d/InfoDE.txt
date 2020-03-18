@@ -1,0 +1,6 @@
+Dieses Objekt entsteht, wenn das Lebewesen verletzt wird und verschwindet, wenn es ein festes Objekt berührt.
+
+von Michael Zinn
+Michael.Zinn@gmx.de
+
+Version 1.00

@@ -1,0 +1,7 @@
+[DefCore]
+id=SWIR
+Name=Schwere Infanterie
+Version=4,9,5
+Category=1
+Picture=0,0,27,38
+ 

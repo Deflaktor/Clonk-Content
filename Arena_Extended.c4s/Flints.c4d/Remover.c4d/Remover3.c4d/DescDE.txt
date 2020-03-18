@@ -1,0 +1,1 @@
+Löscht Objekte in der Umgebung, aber keine Verbündete. Radius 288.

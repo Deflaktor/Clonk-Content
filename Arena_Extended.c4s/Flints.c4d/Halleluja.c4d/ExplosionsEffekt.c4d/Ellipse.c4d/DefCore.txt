@@ -1,0 +1,11 @@
+[DefCore]
+id=KACL
+Name=Ellipse
+Category=4
+Width=300
+Height=300
+Offset=-150,-150
+Picture=0,0,300,300
+StretchGrowth=1
+IncompleteActivity=1
+Oversize=1

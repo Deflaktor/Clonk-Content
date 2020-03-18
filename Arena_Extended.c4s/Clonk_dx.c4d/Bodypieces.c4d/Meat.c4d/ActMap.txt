@@ -1,0 +1,5 @@
+[Action]
+Name=Decay
+FacetBase=1
+Delay=50
+EndCall=Remove
