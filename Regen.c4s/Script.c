@@ -315,10 +315,10 @@ Script2200:
   return(1);
   
 Script10000:
-  if(!CreateEnemy()) return(goto(10000-30-wave*2));
+  if(!CreateEnemy()) return(goto(10000-30));
   wave++;
   // LaunchEarthquake(Random(LandscapeWidth()),RandomX(LandscapeHeight()/2,LandscapeHeight()));
-  goto(Max(5000,10000-600-wave*4));
+  goto(Max(5000,10000-600));
   return(1);
   
 protected func CreateEnemy() {
@@ -355,7 +355,11 @@ protected func CreateEnemy() {
 	    enemy->SetBlast(BoundBy(wave/2,10,20));
 		count--;
 		if(FindObject(ALTR))
-		  if(enemy->ObjectDistance(enemy->FindObject(ALTR,0,0,-1,-1))<200) {
+		  if(enemy->ObjectDistance(enemy->FindObject(ALTR,0,0,-1,-1))<1000) {
+		    RemoveObject(enemy);
+		    if(type==2) count++;
+		  }
+		  if(FindObject2(Find_ID(FLAG), enemy->Find_Distance(200), Find_Action("FlyBase"))) {
 		    RemoveObject(enemy);
 		    if(type==2) count++;
 		  }
@@ -370,7 +374,11 @@ protected func CreateEnemy() {
 		  enemy->SetWeapID(FLNT);
 		count--;
 		if(FindObject(ALTR))
-		  if(enemy->ObjectDistance(enemy->FindObject(ALTR,0,0,-1,-1))<200) {
+		  if(enemy->ObjectDistance(enemy->FindObject(ALTR,0,0,-1,-1))<1000) {
+		    RemoveObject(enemy);
+		    if(type==2) count++;
+		  }
+		  if(FindObject2(Find_ID(FLAG), enemy->Find_Distance(200), Find_Action("FlyBase"))) {
 		    RemoveObject(enemy);
 		    if(type==2) count++;
 		  }
