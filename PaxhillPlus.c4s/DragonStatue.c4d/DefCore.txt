@@ -1,0 +1,10 @@
+[DefCore]
+id=_DST
+Name=DragonStatue
+Category=1
+Width=160
+Height=160
+Offset=-80,-80
+Value=100
+Mass=100
+Components=ROCK=100;
