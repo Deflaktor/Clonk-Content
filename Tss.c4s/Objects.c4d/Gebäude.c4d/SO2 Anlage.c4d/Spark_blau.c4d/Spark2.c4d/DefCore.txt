@@ -1,0 +1,8 @@
+[DefCore]
+id=_PRC
+Name=Glitzer Client
+Category=4
+Width=1
+Height=1
+Offset=0,0
+Vertices=1

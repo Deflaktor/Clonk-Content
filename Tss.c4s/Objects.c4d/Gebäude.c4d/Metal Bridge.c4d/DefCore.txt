@@ -1,0 +1,23 @@
+[DefCore]
+id=BRDM
+Name=Metal Bridge
+Version=4,6,0
+Category=3332
+MaxUserSelect=50
+Width=72
+Height=11
+Offset=-36,-5
+Value=10
+Mass=200
+Components=METL=1;
+SolidMask=0
+Picture=0,14,70,50
+Vertices=4
+VertexX=-36,35,-36,35
+VertexY=-5,-5,5,5
+VertexCNAT=5,6,9,10
+VertexFriction=100,100,20,20
+BlastIncinerate=325
+BurnTo=BRBM
+Rebuy=1
+Grab=1

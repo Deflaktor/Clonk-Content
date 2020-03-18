@@ -1,0 +1,1 @@
+Makes the start of the level easier (creates a hut in the sky).

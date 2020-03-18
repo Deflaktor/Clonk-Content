@@ -1,0 +1,2 @@
+TxtNoEarthavailable=Noch %d Erdklumpen benötigt.
+TxtProducesand=Sandproduktion

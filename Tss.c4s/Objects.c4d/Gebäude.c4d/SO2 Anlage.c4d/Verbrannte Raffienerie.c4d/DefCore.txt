@@ -1,0 +1,22 @@
+[DefCore]
+id=RA6B
+Version=4,6,2
+Name=Verbrannter Wolkenkratzer
+Category=2
+Width=159
+Height=120
+Offset=-40,-60
+Value=200
+Mass=6000
+Components=ALU1=6;METL=5;
+Picture=0,0,80,120
+Vertices=4
+VertexX=-23,31,11,38
+VertexY=-60,-4,59,59
+VertexFriction=50,50,50,50
+Exclusive=1
+BlastIncinerate=1000
+Construction=1
+ConstructTo=RAF6
+ColorByOwner=1
+ 

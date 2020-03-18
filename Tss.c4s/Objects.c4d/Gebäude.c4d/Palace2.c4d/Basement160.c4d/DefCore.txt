@@ -1,0 +1,17 @@
+[DefCore]
+id=BAS9
+Name=Basement
+Version=4,6,5
+Category=2
+Width=160
+Height=8
+Offset=-80,-4
+Value=1
+Mass=10
+Components=ROCK=8;
+SolidMask=0,0,160,8,0,0
+Vertices=2
+VertexX=-38,34
+VertexY=-5,-5
+VertexFriction=100,100
+Construction=1

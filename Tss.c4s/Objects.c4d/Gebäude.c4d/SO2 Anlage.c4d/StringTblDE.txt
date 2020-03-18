@@ -1,0 +1,3 @@
+TxtNoLavabarrelavailable=Kein Lavafass verfügbar.
+TxtNeedsfueltoburn=Kein Brennmaterial verfügbar.
+TxtProducesulphur=Schwefelproduktion

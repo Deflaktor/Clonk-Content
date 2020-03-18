@@ -1,0 +1,1 @@
+Merkt sich die Objekte die ein Spieler kaufen kann, selbst nach Eliminierung und Neueinstieg.

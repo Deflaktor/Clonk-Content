@@ -1,0 +1,11 @@
+[DefCore]
+id=FXV1
+Version=4,9,5
+Name=Vulkan
+Category=1
+Width=16
+Height=16
+Mass=1
+Picture=0,0,128,128
+Vertices=0
+ 

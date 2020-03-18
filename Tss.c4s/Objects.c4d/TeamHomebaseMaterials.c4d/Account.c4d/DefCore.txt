@@ -1,0 +1,11 @@
+[DefCore]
+id=_CNT
+Name=Konto
+Version=4,9,1,3
+Value=0
+Category=1
+Width=1
+Height=1
+Picture=0,0,64,64
+Timer=1
+TimerCall=Execute

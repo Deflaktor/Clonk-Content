@@ -1,0 +1,2 @@
+DE:Verbranntes Ziergebäude
+US:Burned ornament

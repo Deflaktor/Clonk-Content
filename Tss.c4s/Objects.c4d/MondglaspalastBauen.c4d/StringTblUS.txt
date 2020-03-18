@@ -1,0 +1,3 @@
+MsgMoonglaspalaceBuilt=A moonglaspalace has been built. Goal fulfilled.
+MsgMoonglaspalaceBuiltNAP=&d players have not built a moonglaspalace yet.
+MsgMoonglaspalaceNotBuilt=No moonglaspalace has been built yet.

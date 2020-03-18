@@ -1,0 +1,6 @@
+[Action]
+Name=Check
+Procedure=NONE
+Delay=10
+NextAction=Check
+StartCall=Check

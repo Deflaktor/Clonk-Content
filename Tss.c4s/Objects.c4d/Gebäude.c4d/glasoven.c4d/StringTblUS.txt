@@ -1,0 +1,4 @@
+TxtNoSandavailable=No sand available.
+TxtNoSodaavailable=No soda available.
+TxtNeedsfueltoburn=Needs fuel to burn.
+TxtProduceglass=Produce glass

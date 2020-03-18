@@ -1,0 +1,2 @@
+TxtNoEarthavailable=%d chunk of earth still needed
+TxtProducesand=Produce sand

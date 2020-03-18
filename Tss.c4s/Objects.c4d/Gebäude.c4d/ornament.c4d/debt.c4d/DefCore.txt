@@ -1,0 +1,10 @@
+[DefCore]
+id=DEBT
+Name=debt
+Version=4,6,5
+Category=1
+TimerCall=ChangeMoney
+Timer=150
+Value=1
+Components=DEBT=1;
+Picture=0,0,50,50

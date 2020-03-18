@@ -1,0 +1,5 @@
+[Action]
+Name=Delay
+Procedure=NONE
+Delay=1
+EndCall=Init

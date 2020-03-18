@@ -1,0 +1,3 @@
+TxtNoLavabarrelavailable=No lava barrel available.
+TxtNeedsfueltoburn=Needs fuel to burn.
+TxtProducesulphur=Produce sulphur

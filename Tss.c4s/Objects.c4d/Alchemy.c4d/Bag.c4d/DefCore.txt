@@ -1,0 +1,21 @@
+[DefCore]
+id=ALC_
+Name=Alchemy bag
+Category=3600
+MaxUserSelect=10
+Version=4,9,5
+Width=10
+Height=10
+Offset=-5,-5
+Value=15
+Mass=10
+Picture=0,10,64,64
+Vertices=2
+VertexX=-3,4
+VertexY=-4,3
+VertexFriction=50,50
+Components=ROCK=2;WOOD=5;
+Float=1
+NoComponentMass=1
+Collectible=1
+Rebuy=1

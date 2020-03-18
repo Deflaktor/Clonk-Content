@@ -1,0 +1,13 @@
+[DefCore]
+id=CTW2
+Name=AttachedCombatCannon
+Version=4,9,5
+Category=4
+Width=26
+Height=26
+Offset=-13,-13
+Picture=0,0,26,26
+Vertices=1
+VertexX=0
+VertexY=0
+Rotate=1

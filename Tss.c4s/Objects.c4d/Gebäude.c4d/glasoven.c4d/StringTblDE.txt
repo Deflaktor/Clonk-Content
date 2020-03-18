@@ -1,0 +1,4 @@
+TxtNoSandavailable=Kein Sand verfügbar.
+TxtNoSodaavailable=Kein Soda verfügbar.
+TxtNeedsfueltoburn=Kein Brennmaterial verfügbar.
+TxtProduceglass=Glasproduktion
