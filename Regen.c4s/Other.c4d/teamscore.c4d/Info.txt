@@ -1,0 +1,36 @@
+Info.txt für die Regel "Gemeinschafts-Siedlungspunkte"
+
+Funktionsweise:
+---------------
+- Die Spieler eines Teams teilen sich ein Punktekonto, das heißt, erwirtschaftet ein Spieler Punkte, erhöht sich der Punktestand bei allen Spielern des Teams
+- Es werden alle Punkte der Spieler in einem Team zusammengezählt und den Spielern auf ihre Punktekonten gutgeschrieben
+- Die Punkte errechnen sich aus dem erwirtschafteten Gold, dem Wert aller Objekte, die ein Spieler erschaffen hat, und seinen Score-Punkten
+- Davon abgezogen wird das Gold und der Wert der Objekte, die ein Spieler bei seinem Beitritt schon hatte
+- Damit Spieler in einem Team sind, genügt es, wenn sie nicht verfeindet sind
+- Die Berücksichtigung "echter" Teams gibt es erst, wenn die Funktion GetPlayerTeam offiziell verfügbar ist
+- Die Score-Punkte eignen sich am besten, um den im Spiel angezeigten Punktestand zu manipulieren, damit bei allen Spielern eines Teams die selbe Punktezahl angezeigt wird. Zu diesem Zweck überlädt die Regel die Funktionen DoScore und GetScore
+
+Notizen:
+--------
+- GetPlrValueGain wird nicht jedes Frame neu berechnet. Um sicher zu gehen, dass man aktuelle Daten nach DoScore hat, sollte man nach dem Aufruf von DoScore mindestens 30 Frames warten, bis man das nächste Mal GetPlrValueGain aufruft
+- GetPlrValueGain gibt, da die Punkte aller Spieler eines Teams angepasst werden, die geteilten gewonnenen Punkte zurück, nicht (wie normalerweise) die eines einzelnen Spielers
+- Spieler-Teams können nicht gespeichert, und nur bei Bedarf (d.h. bei OnHostilityChange) angepasst werden, da SetHostility den fNoCalls-Parameter hat, mit dem die Regel Änderungen bei den Verfeindungen nicht bemerken könnte
+
+Aufbau:
+-------
+Die Regel "Gemeinschafts-Siedlungspunkte" besteht aus vier Teilen: Der eigentlichen Spielregel, Score-Punkte-Verwaltung, Spieler-Punkte-Verwaltung, und der Team-Verwaltung. Die Spielregel greift dabei auf die anderen drei Teile zu, während diese restlichen drei Teile unabhängig voneinander (und von der Regel) sind.
+
+1) Score-Punkte-Verwaltung
+Da die Score-Punkte verwendet werden, um die im Spiel angezeigten Punkte anzupassen, mussten DoScore und GetScore überladen werden. DoScore und GetScore können ganz normal benutzt werden, nur dass die Spielregel die Score-Punkte der Spieler speichert. Die Punkte werden natürlich in die Berechnung der Spieler- und Team-Punkte einbezogen.
+
+2) Spieler-Punkte-Verwaltung
+Für jeden Spieler wird gespeichert, wie viele Punkte er beim Spielbeitritt hatte (GetOriginalPlayerValue). Von den Punkten, die ein Spieler aktuell hat (GetPlayerValue), werden diese ursprünglichen Punkte abgezogen, um die im Spiel erwirtschafteten Punkte zu berechnen (GetPlayerValueGain).
+Diese Funktionen sind zur internen Verwaltung gedacht, deshalb konnte GetPlrValue und GetPlrValueGain nicht benutzt werden.
+
+3) Team-Verwaltung
+Es können Team-Punkte und die Punkte, die ein Team in der Runde erwirtschaftet hat, abgefragt werden (GetTeamValue/GetTeamValueGain). Außerdem kann eine Liste von Spielernummern, die in einem Team sind, mit GetTeamPlayers bestimmt werden. Zu guter Letzt gibt GetTeamMateNames einen String der Namen dieser Spieler zurück.
+
+4) Die Spielregel
+Die Spielregel bestimmt in ihrem TimerCall für jedes Team, wie viele Punkte das jeweilige Team erwirtschaftet hat. Dann wird der Punktestand (d.h. die Score-Punkte) jedes Spielers des jeweiligen Teams so gesetzt, dass die im Spiel angezeigten Punkte die Team-Punkte darstellen.
+
+-- Christian Harnisch (Nachtschatten), 18.02.2008

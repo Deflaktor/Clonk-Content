@@ -1,0 +1,2 @@
+TeamScoreWith=Du hast gemeinsame Siedlungspunkte mit folgenden Spielern:|%s
+NoTeamScore=Du hast mit niemandem gemeinsame Siedlungspunkte.

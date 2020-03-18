@@ -1,0 +1,17 @@
+[DefCore]
+id=_DFA
+Version=4,9,8
+Name=Dead farmer
+Category=C4D_Living
+Width=15
+Height=29
+Offset=-7,-14
+Vertices=1
+VertexFriction=100
+Value=25
+Mass=60
+Components=CLNK=1;
+Entrance=-7,-14,15,29
+
+[Physical]
+Energy=40000

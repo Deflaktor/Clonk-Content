@@ -1,0 +1,19 @@
+[DefCore]
+id=8P51
+Name=Baumsetzling
+Version=4,6,2
+Category=2576
+Width=8
+Height=16
+Offset=-4,-8
+Mass=10
+Value=4
+MaxUserSelect=15
+Picture=10,0,56,66
+Vertices=8
+VertexX= 0, 1, 2, 1, 0,-2,-2,-1
+VertexY=-7,-4, 0, 4, 6, 2,-1,-6
+VertexFriction=50,50,50,50,50,50,50,50
+Collectible=1
+Rebuy=1
+Rotate=1

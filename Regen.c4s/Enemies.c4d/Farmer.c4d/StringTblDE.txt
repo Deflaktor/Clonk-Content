@@ -1,0 +1,10 @@
+Query=Wunsch (vier Zeichen):
+MsgTooMany=Du hast dir nun wirklich genug gewuenscht!
+MsgHint=Schau doch mal ins Lexikon?
+MsgWrongSize=Ein richtiger Wunsch hat genau vier Zeichen.
+MsgWrongID=Dieses Objekt kenne ich nicht.
+MsgNoGood=%s kannst du weder tragen noch zaubern.
+MsgOutOfStock=Sorry, ausgerechnet %s habe ich heute nicht im Angebot.
+MsgTechnical=Mit %s gibt es gerade technische Probleme. Haettest du noch einen anderen Wunsch?
+MsgCreated=Dein Wunsch sei mit Befehl - %s erschaffen!
+LogCreated=%s wuenscht sich %s.

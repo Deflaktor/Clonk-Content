@@ -1,0 +1,1 @@
+Mit dem Dynamo kann man Strom erzeugen der jedoch nur für Fahrstühle ausreicht. Anfassen und Doppelklick "Graben" startet die Stromerzeugung.

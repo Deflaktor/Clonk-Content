@@ -1,0 +1,10 @@
+[DefCore]
+id=RFWA
+Version=4,9,5
+Name=Wasser Entfernen
+Category=131072
+Width=1
+Height=1
+Value=50
+Components=ILOA=5;IBON=6;IGOL=4;
+Picture=0,0,40,40

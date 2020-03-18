@@ -1,0 +1,10 @@
+[Action]
+Name=Ghost
+Procedure=FLOAT
+Directions=2
+FlipDir=1
+Length=14
+Delay=3
+Facet=0,0,15,29
+NextAction=Ghost
+EndCall=Activity

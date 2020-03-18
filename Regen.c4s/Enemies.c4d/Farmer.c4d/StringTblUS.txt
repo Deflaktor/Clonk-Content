@@ -1,0 +1,10 @@
+Query=Wish (four characters):
+MsgTooMany=I've done all I could for you.
+MsgHint=Did you check the encyclopedia?
+MsgWrongSize=A proper wish consists of four characters.
+MsgWrongID=I don't know this object.
+MsgNoGood=%s is nothing you could carry or cast.
+MsgOutOfStock=Sorry, but %s is just one of the two things I don't have in stock right now.
+MsgTechnical=I have some technical difficulties with %s. Do you have another wish?
+MsgCreated=Very well - enjoy your %s!
+LogCreated=%s wishes %s.

@@ -1,0 +1,16 @@
+[Material]
+Name=Flint
+Color=124,16,12,132,156,16,136,16,20
+Shape=3
+Density=50
+Friction=100
+BlastFree=1
+DigFree=1
+Dig2Object=FLNT
+Dig2ObjectRatio=200
+Blast2Object=FLNT
+Blast2ObjectRatio=100
+MaxAirSpeed=100
+MaxSlide=1
+Placement=50
+TextureOverlay=Rough

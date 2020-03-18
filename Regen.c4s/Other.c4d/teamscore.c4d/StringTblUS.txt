@@ -1,0 +1,2 @@
+TeamScoreWith=You have a shared team score with the following players:|%s
+NoTeamScore=You don't share your score with anyone.
