@@ -1,0 +1,11 @@
+[DefCore]
+id=FXP1
+Version=4,9,1,3
+Name=Wolke
+Category=4
+Width=100
+Height=1
+Mass=1
+Picture=0,0,40,40
+Vertices=0
+ 

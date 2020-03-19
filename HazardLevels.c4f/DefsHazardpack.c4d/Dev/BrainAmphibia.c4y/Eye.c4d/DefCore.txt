@@ -1,0 +1,8 @@
+[DefCore]
+id=_YBE
+Name=New Object
+Version=4,9,5
+Category=1
+Width=22
+Height=24
+Offset=-11,-12

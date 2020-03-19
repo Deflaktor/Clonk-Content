@@ -1,0 +1,15 @@
+[Action]
+Name=Execution
+Procedure=FLOAT
+Facet=0,0,10,10
+NextAction=Execution
+Delay=60
+EndCall=Remove
+
+[Action]
+Name=TimerWait
+Procedure=FLOAT
+Facet=10,0,10,10
+Length=8
+NextAction=Execution
+Delay=200

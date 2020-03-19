@@ -1,0 +1,1 @@
+Stellt Funkverbindung zur Basis her. Aktivierung durch Doppelklick auf Graben.

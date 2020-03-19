@@ -1,0 +1,1 @@
+Das Lasergewehr feuert einzelne starke Projektile ab je nach Energiezelle. Gelbe Energiezelle: Mittlerer Schaden, effektiv gegen Clonks. Rote Energiezelle: Kontinuierliche Explosionen, Groﬂer Schaden. Blaue Energiezelle: Langsam, l‰st Getroffenen aufbl‰hen bis zum Platzen.

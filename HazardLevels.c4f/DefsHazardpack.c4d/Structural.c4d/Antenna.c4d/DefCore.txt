@@ -1,0 +1,14 @@
+[DefCore]
+id=_ANT
+Version=4,9,1
+Name=Antenna
+Category=1
+Width=100
+Height=100
+Offset=-50,-50
+Value=10
+Mass=1000
+Picture=0,0,100,100
+Vertices=1
+VertexY=1
+VertexFriction=20

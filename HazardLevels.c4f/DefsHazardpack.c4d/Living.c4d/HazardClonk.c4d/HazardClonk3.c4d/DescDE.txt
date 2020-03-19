@@ -1,0 +1,3 @@
+Kann bis zu fünf Objekte mit sich tragen. Inventarsteuerung über Taste Spezial 1. Spezial 2 gibt zusätzliche Informationen.
+
+Waffen feuern über Taste Werfen. Ablegen mit Doppelstop-Werfen. Doppelgraben um sofort aufzurichten oder in der Luft stehenbleiben. Kann nur in bestimmten Intervallen wieder eingesetzt werden. Erhält einen Bonus von +50 auf die Gesundheit.

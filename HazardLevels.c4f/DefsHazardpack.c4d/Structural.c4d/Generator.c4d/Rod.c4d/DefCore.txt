@@ -1,0 +1,16 @@
+[DefCore]
+id=_LNR
+Name=LightningRod
+Category=1
+Width=10
+Height=20
+Offset=-5,-10
+Value=10
+Mass=10
+Picture=0,0,10,20
+Vertices=1
+VertexX=0
+VertexY=-10
+VertexFriction=20
+AttractLightning=1
+Rotate=1

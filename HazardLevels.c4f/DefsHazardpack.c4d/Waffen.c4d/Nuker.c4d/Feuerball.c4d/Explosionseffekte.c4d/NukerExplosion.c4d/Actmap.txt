@@ -1,0 +1,16 @@
+[Action]
+Name=Los
+Procedure=FLOAT
+Length=35
+Delay=5
+Facet=0,0,1,1
+NextAction=Los2
+PhaseCall=Explosion
+
+[Action]
+Name=Los2
+Procedure=FLOAT
+Length=1
+Delay=5
+Facet=0,0,1,1
+EndCall=Remove

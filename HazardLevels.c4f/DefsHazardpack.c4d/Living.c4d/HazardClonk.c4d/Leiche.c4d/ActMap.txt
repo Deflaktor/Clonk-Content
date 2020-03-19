@@ -1,0 +1,6 @@
+[Action]
+Name=Death
+Directions=2
+Facet=0,0,16,20
+Length=3
+NextAction=Death

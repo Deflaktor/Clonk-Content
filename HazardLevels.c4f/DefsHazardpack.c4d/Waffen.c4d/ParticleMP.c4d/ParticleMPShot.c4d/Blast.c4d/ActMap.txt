@@ -1,0 +1,12 @@
+[Action]
+Name=Remove
+StartCall=Remove
+
+[Action]
+Name=Blast
+Length=11
+Delay=1
+Facet=0,0,64,64
+FacetBase=0
+NextAction=Remove
+StartCall=Dangerous

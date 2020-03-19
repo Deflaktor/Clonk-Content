@@ -1,0 +1,1 @@
+Mit diesem Gerät läßt sich die Kontrolle über nahegelegene elektronische Steuerungssysteme übernehmen. Aktivierung und Zielerfassung durch Doppelklick auf Graben. Verbraucht eine Energiezelle pro Kontrollübernahme.

@@ -1,0 +1,15 @@
+[DefCore]
+id=PUL4
+Name=Druckwelle
+Category=16
+MaxUserSelect=10
+Width=16
+Height=16
+Offset=-8,-8
+Value=0
+Mass=0
+Picture=0,0,16,16
+Rotate=1
+Float=1
+Timer=1
+TimerCall=Timer

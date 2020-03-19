@@ -1,0 +1,13 @@
+[DefCore]
+id=_SSS
+Version=4,4
+Name=Schallwelle
+Category=16
+Width=4
+Height=10
+Offset=-2,-5
+Mass=1
+Picture=0,0,4,10
+Vertices=1
+VertexFriction=1
+ 

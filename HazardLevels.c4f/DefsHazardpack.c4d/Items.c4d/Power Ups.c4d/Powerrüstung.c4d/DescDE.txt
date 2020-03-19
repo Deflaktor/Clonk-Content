@@ -1,0 +1,6 @@
+Die Powerrüstung ist voll mit High- Tech. Sie besitzt sogar einen eigenen Kernreaktor, der diese problemlos mehr als 100 Jahre lang versorgen kann. Dadurch wird der Clonk viel stärker und wiederstandsfähiger.
+Die Rüstung besitzt auch ein Atemsystem, mit dem der Clonk länger unter Wasser atmen kann.
+Wenn die Powerrüstung einmal angezogen ist, kann sie jedoch nicht mehr ausgezogen werden!
+
+!Achtung!
+Die Powerrüstung ist für den Hazardclonk optimiert. Sie kann zwar auch von anderen Clonks getragen werden, sollte aber nicht, da es sich auf diese negativ auswirken kann.

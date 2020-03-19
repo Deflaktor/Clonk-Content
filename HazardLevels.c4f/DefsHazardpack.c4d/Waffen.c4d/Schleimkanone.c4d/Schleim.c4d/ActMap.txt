@@ -1,0 +1,15 @@
+[Action]
+Name=Travel
+Procedure=NONE
+NextAction=Travel
+Delay=1
+FacetBase=1
+
+[Action]
+Name=CauseDamage
+Procedure=FLOAT
+Delay=20
+Length=1
+FacetBase=1
+NextAction=CauseDamage
+StartCall=Dangerous

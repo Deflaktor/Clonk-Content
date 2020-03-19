@@ -1,0 +1,1 @@
+Ammonition for the grenade launcher. You may also open the packet using double-dig in order to throw the grenades manually.

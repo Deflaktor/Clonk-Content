@@ -1,0 +1,6 @@
+[Action]
+Name=Swim
+Delay=5
+Length=35
+Facet=0,0,33,16
+NextAction=Swim

@@ -1,0 +1,17 @@
+[Action]
+Name=Connect
+Procedure=CONNECT
+Delay=10
+FacetBase=1
+NextAction=Connect
+StartCall=
+ 
+[Action]
+Name=Brutzel
+Procedure=CONNECT
+Delay=5
+FacetBase=1
+NextAction=Brutzel
+EndCall=DamageTarget
+Sound=Electric
+ 

@@ -1,0 +1,8 @@
+[Action]
+Name=Activated
+Procedure=NONE
+NextAction=Activated
+StartCall=Check
+Delay=1
+Facet=0,2,9,2
+

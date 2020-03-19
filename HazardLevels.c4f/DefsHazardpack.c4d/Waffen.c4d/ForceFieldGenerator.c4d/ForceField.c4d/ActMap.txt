@@ -1,0 +1,10 @@
+[Action]
+Name=Exist
+Procedure=NONE
+NextAction=Exist
+Delay=1
+Length=5
+Directions=4
+Facet=0,0,46,46
+PhaseCall=CheckField
+

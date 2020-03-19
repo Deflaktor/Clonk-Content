@@ -1,0 +1,17 @@
+[DefCore]
+id=_DR6
+Name=Door
+Version=4,9,1
+Category=1
+Width=32
+Height=4
+Offset=-16,-2
+Value=10
+Mass=100
+Components=METL=3
+Vertices=2
+VertexX=-11,11
+VertexY=0,0
+VertexFriction=50,50
+TimerCall=CheckArea
+Timer=15

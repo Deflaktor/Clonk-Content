@@ -1,0 +1,8 @@
+[DefCore]
+Name=Waypoint8
+id=WAY8
+Category=1
+Width=10
+Height=10
+Offset=-5,-5
+Picture=0,0,10,10

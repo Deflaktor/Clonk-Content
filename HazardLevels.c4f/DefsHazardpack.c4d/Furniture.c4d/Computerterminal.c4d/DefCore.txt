@@ -1,0 +1,17 @@
+[DefCore]
+id=CS3V
+Name=Computerterminal
+Category=1
+
+Width=43
+Height=20
+Offset=-21,10
+Picture=0,0,43,20
+Vertices=4
+VertexX=-21,-21,22,22
+VertexY=-10,10,-10,10
+
+
+
+
+

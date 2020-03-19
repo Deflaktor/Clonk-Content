@@ -1,0 +1,4 @@
+This specially for the most dangerous missions trained clonk is able to use the Hazard-Weapons on his own and to find his way in nearly every Hazard-Level.
+
+Needs the "Hazard"-objectpackage (Hazard.c4d)
+This is a project of Hallifax, Clonk-Karl, Clonk Nukem and Nick-Nack. Questions and/or suggestions please to Nick-Nack@HazardKI.de, Hallifax@HazardKI.de, Clonk-Karl@HazardKI.de or to chyh@freenet.de.

@@ -1,0 +1,8 @@
+[Action]
+Name=Blink
+Procedure=FLOAT
+NextAction=Blink
+Delay=5
+Length=2
+Facet=0,0,3,3
+

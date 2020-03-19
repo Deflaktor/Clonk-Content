@@ -1,0 +1,17 @@
+[DefCore]
+id=RG3V
+Name=Regenerier-Kasten
+Category=4
+Value=80
+Width=18
+Height=20
+Offset=-9,-10
+Picture=0,0,18,20
+Vertices=2
+VertexX=-9,9
+VertexY=10,10
+VertexFriction=100,100
+MaxUserSelect=10
+Grab=2
+TimerCall=Fulling
+Timer=560

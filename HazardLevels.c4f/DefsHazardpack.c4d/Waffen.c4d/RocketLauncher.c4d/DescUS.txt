@@ -1,0 +1,5 @@
+A slow, but powerful weapon that causes heavy trouble to your opponents.
+
+Usage: Up, Down, Left, Right to aim, Throw to fire.
+
+Switch the inventory or double click Left or Right to stop aiming.

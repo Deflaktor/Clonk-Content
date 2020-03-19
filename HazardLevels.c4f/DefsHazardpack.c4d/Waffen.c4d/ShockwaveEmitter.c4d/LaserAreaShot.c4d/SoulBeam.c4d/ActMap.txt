@@ -1,0 +1,7 @@
+[Action]
+Name=Connect
+Procedure=CONNECT
+Delay=50
+FacetBase=1
+NextAction=Connect
+EndCall=Check

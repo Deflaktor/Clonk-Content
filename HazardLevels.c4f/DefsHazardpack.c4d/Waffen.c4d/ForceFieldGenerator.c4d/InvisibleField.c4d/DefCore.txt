@@ -1,0 +1,11 @@
+[DefCore]
+id=_IFD
+Version=4,6,1
+Name=ForceField
+Category=1
+Width=46
+Height=46
+Offset=-23,-23
+Picture=0,0,46,46
+StretchGrowth=1
+IncompleteActivity=1

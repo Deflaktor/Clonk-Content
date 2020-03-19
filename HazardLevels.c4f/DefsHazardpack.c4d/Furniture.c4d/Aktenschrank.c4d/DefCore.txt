@@ -1,0 +1,16 @@
+[DefCore]
+id=AT3V
+Name=Aktenscnrank
+Category=4
+
+Width=13
+Height=17
+Offset=-7,-8
+Picture=0,0,13,17
+Vertices=4
+VertexX=-5,-5,4,4
+VertexY=-8,8,-8,8
+Grab=2
+
+
+

@@ -1,0 +1,15 @@
+[DefCore]
+id=_VT1
+Version=4,9,1
+Name=Selbstschussanlage
+Category=1
+Width=26
+Height=17
+Mass=50
+Offset=-12,-15
+Picture=0,0,24,17
+Vertices=4
+VertexX=-10,14,-16,16
+VertexY=-12,-12,0,0
+VertexFriction=300,300,300,300
+BlastIncinerate=40

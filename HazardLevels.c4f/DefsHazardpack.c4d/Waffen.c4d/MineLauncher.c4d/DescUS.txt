@@ -1,0 +1,5 @@
+The mine launcher gets your enemy out of the corner where he's hiding.
+
+Usage: Up, Down, Left, Right to aim, Throw to fire.
+
+Switch the inventory or double click Left or Right to stop aiming.

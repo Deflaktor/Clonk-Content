@@ -1,0 +1,16 @@
+[DefCore]
+id=_VN2
+Name=Ventilator
+Category=1
+Value=0
+Mass=0
+Timer=50
+TimerCall=Check2
+Width=52
+Height=48
+Offset=-26,-24
+Picture=0,0,52,48
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=50

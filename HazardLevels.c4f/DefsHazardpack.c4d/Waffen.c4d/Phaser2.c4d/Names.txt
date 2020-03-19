@@ -1,0 +1,2 @@
+DE:Phaser2
+US:Phaser2

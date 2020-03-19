@@ -1,0 +1,2 @@
+DE:Satellitenantenne
+US:Satellite antenna

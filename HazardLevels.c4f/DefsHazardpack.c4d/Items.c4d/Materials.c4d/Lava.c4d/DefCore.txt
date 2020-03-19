@@ -1,0 +1,17 @@
+[DefCore]
+id=LAVA
+Name=Lavaklumpen
+Category=16
+Width=10
+Height=10
+Offset=-5,-5
+Mass=12
+Picture=0,0,10,10
+Vertices=2
+VertexX=-3,4
+VertexY=-4,3
+VertexFriction=20
+Collectible=1
+Rotate=1
+ColorByMaterial=Lava
+ 

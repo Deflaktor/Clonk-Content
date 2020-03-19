@@ -1,0 +1,22 @@
+[DefCore]
+id=_HG2
+Version=4,9,1
+Name=Hangargate Vertikal
+Category=16
+ContactCalls=1
+Width=8
+Height=160
+Offset=-4,-80
+Value=30
+Mass=200
+SolidMask=8,0,7,160
+Picture=0,0,8,160
+Vertices=2
+VertexX=-1,-1
+VertexY=-81,80
+VertexCNAT=4,8
+VertexFriction=100,100
+
+[Physical]
+Float=100
+ 

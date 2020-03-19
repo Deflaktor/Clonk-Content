@@ -1,0 +1,14 @@
+[DefCore]
+id=_GTX
+Name=Gate
+Category=1
+Width=20
+Height=18
+Offset=-10,-9
+Value=10
+Mass=100
+Picture=0,0,20,18
+Entrance=-10,-12,20,18
+Exclusive=1
+ContainBlast=1
+ 

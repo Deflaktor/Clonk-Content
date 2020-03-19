@@ -1,0 +1,1 @@
+Mittelklasse Energiezellen, die relativ aufwendig sind herzustellen. Gedacht für Kraftfeldgenerator, Lasergewehr, LaserMG und den Shockwave-Emitter.

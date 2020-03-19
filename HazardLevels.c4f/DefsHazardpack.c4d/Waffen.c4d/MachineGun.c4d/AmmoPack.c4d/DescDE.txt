@@ -1,0 +1,1 @@
+Dieses Paket enthält Munition für das Maschinengewehr. Es kann mit Doppel-graben geöffnet werden.

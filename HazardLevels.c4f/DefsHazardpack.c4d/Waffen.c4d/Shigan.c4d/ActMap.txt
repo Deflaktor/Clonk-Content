@@ -1,0 +1,6 @@
+[Action]
+Name=Reload
+NextAction=Idle
+FacetBase=1
+Length=40
+Delay=1

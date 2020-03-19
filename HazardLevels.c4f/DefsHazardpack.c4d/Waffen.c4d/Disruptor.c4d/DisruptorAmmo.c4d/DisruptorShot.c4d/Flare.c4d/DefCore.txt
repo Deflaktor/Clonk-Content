@@ -1,0 +1,16 @@
+[DefCore]
+id=CKFL
+Name=Flare
+Category=16
+MaxUserSelect=1
+Value=0
+Mass=25
+Width=5
+Height=17
+Offset=-2,-8
+Picture=0,0,5,17
+Collectible=0
+Rotate=1
+Oversize=1
+ColorByOwner=0
+IncompleteActivity=1

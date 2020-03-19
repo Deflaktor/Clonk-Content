@@ -1,0 +1,16 @@
+[Action]
+Name=Change
+Procedure=NONE
+NextAction=End
+Delay=2
+Length=3
+Facet=0,0,1,1
+
+[Action]
+Name=End
+Procedure=NONE
+Delay=1
+Length=1
+Facet=0,0,0,0
+StartCall=Weg
+

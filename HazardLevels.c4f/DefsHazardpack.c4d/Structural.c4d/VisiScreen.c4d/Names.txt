@@ -1,0 +1,2 @@
+DE:Überwachungsbildschirm
+US:Locator Screen

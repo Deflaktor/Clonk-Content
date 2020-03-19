@@ -1,0 +1,15 @@
+[DefCore]
+id=_FFD
+Version=4,6,1
+Name=ForceField
+Category=4
+Width=46
+Height=46
+Offset=-23,-23
+Mass=1
+SolidMask=230,0,46,46
+Picture=0,0,46,46
+Vertices=2
+VertexX=0,0
+VertexY=21,-22
+ 

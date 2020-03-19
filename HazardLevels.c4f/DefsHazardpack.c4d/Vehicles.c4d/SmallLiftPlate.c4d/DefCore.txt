@@ -1,0 +1,26 @@
+[DefCore]
+id=_LFS
+Version=4,6,0
+Name=Small Liftplate
+Category=2
+ContactCalls=1
+Width=31
+Height=22
+Offset=-16,-11
+Value=15
+Mass=15
+SolidMask=0,22,31,4,0,18
+Picture=0,18,31,4
+Vertices=5
+VertexX=0,-11,10,-11,10
+VertexY=-10,10,10,5,5
+VertexCNAT=4,8,8,1,2
+VertexFriction=100,100,100,100
+Grab=2
+VehicleControl=1
+TimerCall=DigFree
+Timer=1
+NoPushEnter=1
+[Physical]
+Float=100
+ 

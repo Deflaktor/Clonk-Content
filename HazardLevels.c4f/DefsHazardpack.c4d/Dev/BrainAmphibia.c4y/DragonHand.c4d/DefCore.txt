@@ -1,0 +1,12 @@
+[DefCore]
+id=_YBD
+Name=Königin
+Category=8
+Mass=400
+Width=64
+Height=40
+Offset=-32,-20
+Prey=1
+StretchGrowth=1
+Rotate=1
+Oversize=1

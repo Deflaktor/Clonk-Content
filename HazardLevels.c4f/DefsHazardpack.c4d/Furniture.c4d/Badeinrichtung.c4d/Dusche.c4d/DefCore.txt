@@ -1,0 +1,17 @@
+[DefCore]
+id=HH3V
+Name=Dusche
+Category=4
+
+Width=20
+Height=27
+Offset=-10,-13
+Picture=0,0,20,27
+Vertices=4
+VertexX=-10,-10,10,10
+VertexY=-13,13,-13,13
+
+Grab=2
+NoPushEnter=1
+
+

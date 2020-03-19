@@ -1,0 +1,17 @@
+[DefCore]
+id=WV3V
+Name=Wandverzierung
+Category=1
+
+Width=10
+Height=10
+Offset=-5,5
+Picture=0,18,29,21
+Vertices=1
+VertexX=0
+VertexY=0
+
+
+
+
+

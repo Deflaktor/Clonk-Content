@@ -1,0 +1,21 @@
+[DefCore]
+id=W13V
+Name=Verbranntes Bett
+Category=2
+
+Value=30
+Mass=70
+Width=31
+Height=24
+Offset=-15,-12
+Picture=0,0,31,24
+Vertices=4
+VertexX=-15,15,15,-15
+VertexY=12,12,-12,-12
+VertexFriction=80,80,80,80
+
+MaxUserSelect=30
+ContactIncinerate=0
+BlastIncinerate=10
+
+Rotate=1

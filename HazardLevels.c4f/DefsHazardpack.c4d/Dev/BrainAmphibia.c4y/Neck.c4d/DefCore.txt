@@ -1,0 +1,12 @@
+[DefCore]
+id=_YBT
+Name=New Object
+Version=4,9,5
+Category=8
+Prey=1
+Width=32
+Height=122
+Offset=-16,-61
+Rotate=1
+StretchGrowth=1
+Oversize=1

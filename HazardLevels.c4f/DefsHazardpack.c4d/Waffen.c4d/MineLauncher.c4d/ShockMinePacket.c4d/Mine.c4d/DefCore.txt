@@ -1,0 +1,16 @@
+[DefCore]
+id=SWMN
+Version=4,4
+Name=ShockwaveMine
+Category=16
+Width=9
+Height=2
+Offset=-4,-1
+Value=2
+Mass=2
+Picture=0,4,80,40
+Vertices=1
+VertexFriction=100
+Collectible=1
+ColorByMaterial=keines
+ 

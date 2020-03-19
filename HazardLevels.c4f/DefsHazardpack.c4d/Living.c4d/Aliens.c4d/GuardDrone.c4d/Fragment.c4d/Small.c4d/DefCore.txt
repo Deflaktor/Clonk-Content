@@ -1,0 +1,16 @@
+[DefCore]
+id=_DFS
+Name=DroneFragmentSmall
+Category=16
+Width=5
+Height=5
+Offset=-2,-2
+Value=1
+Mass=3
+Picture=0,0,5,5
+Vertices=2
+VertexX=-3,3
+VertexY=-3,3
+VertexFriction=30,30
+Rotate=1
+TimerCall=Decay

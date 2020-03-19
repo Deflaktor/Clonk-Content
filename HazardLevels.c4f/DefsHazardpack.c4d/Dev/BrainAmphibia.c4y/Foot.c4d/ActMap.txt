@@ -1,0 +1,6 @@
+[Action]
+Name=Stand
+NextAction=Stand
+Directions=2
+FlipDir=1
+Facet=0,0,48,15

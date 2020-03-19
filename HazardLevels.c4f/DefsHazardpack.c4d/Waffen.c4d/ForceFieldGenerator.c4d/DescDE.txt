@@ -1,0 +1,1 @@
+Der Kraftfeldgenerator generiert mithilfe von Energiezellen verschiedene Kraftfelder. Gelbe Energiezelle erzeugt ein materielles Kraftfeld. Rote Energiezelle erzeugt ein Kraftfeld welches sämtliche Objekte zurückstoßt. Blaue Energiezelle macht den Benutzer unsichtbar.

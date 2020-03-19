@@ -1,0 +1,7 @@
+[Action]
+Name=Stand1
+Procedure=NONE
+NextAction=Stand1
+Directions=2
+Delay=100
+Facet=0,0,36,28

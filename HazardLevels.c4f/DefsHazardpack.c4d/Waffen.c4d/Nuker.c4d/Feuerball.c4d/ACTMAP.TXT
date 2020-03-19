@@ -1,0 +1,9 @@
+[Action]
+Name=Travel
+Procedure=NONE
+NextAction=Travel
+StartCall=Travel
+Delay=1
+FacetBase=0
+Facet=0,0,32,32
+DigFree=50

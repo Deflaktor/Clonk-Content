@@ -1,0 +1,17 @@
+[DefCore]
+id=AQ3V
+Name=Aquarium
+Category=1
+
+Width=33
+Height=16
+Offset=-16,8
+Picture=0,0,33,16
+Vertices=2
+VertexX=-16,16
+VertexY=7
+
+
+
+
+

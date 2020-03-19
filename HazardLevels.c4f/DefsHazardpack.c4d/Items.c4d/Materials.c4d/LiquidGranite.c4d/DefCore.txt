@@ -1,0 +1,17 @@
+[DefCore]
+id=LIQG
+Name=Flüssig-Granit
+Category=2576
+MaxUserSelect=10
+Width=6
+Height=6
+Offset=-3,-3
+Value=5
+Mass=15
+Picture=6,0,20,20
+Vertices=1
+VertexY=1
+VertexFriction=100
+Rebuy=1
+Collectible=1
+ 

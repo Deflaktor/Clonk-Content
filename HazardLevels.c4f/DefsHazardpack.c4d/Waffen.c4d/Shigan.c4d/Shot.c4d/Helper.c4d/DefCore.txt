@@ -1,0 +1,7 @@
+[DefCore]
+id=_SIE
+Name=New Object
+Category=1
+Width=6
+Height=6
+Offset=-3,-3

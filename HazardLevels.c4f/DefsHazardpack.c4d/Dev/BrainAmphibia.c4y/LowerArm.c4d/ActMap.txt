@@ -1,0 +1,4 @@
+[Action]
+Name=Beat
+NextAction=Beat
+Facet=0,0,22,48

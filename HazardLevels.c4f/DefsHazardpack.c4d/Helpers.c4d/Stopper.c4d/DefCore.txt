@@ -1,0 +1,10 @@
+[DefCore]
+id=STOP
+Name=Stopper
+Category=1
+MaxUserSelect=1
+Width=10
+Height=64
+Offset=-5,-32
+Picture=10,0,10,64 
+SolidMask=10,0,10,64,0,0

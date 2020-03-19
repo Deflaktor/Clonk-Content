@@ -1,0 +1,16 @@
+[DefCore]
+id=_AM3
+Name=Feuer
+Category=16
+Width=19
+Height=4
+Offset=-9,-2
+Vertices=4
+VertexX=-9,9,0,0
+VertexY=0,0,-2,2
+VertexCNAT=1,2,4,8
+NoBurnDecay=1 
+Oversize=1
+ContactCalls=1
+SmokeRate=0
+TimerCall=Check

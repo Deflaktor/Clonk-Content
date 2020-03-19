@@ -1,0 +1,13 @@
+[DefCore]
+id=_AM9
+Version=4,4
+Name=Schrumpfer
+Category=16
+Width=12
+Height=7
+Offset=-6,-3
+Mass=1
+Picture=0,0,12,7
+Vertices=1
+VertexFriction=100
+ 

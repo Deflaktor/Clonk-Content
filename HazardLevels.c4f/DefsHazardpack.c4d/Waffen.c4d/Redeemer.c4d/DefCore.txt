@@ -1,0 +1,17 @@
+[DefCore]
+id=_QRD
+Name=Redeemer
+Category=16
+MaxUserSelect=1
+Width=21
+Height=8
+Offset=-12,-5
+Value=400
+Mass=15
+Picture=21,0,100,36
+Vertices=2
+VertexX=-4,8
+VertexY=12,12
+VertexFriction=70,70
+Collectible=1
+IncompleteActivity=1

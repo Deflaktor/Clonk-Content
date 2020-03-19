@@ -1,0 +1,2 @@
+DE:Minenwerfer
+US:Mine launcher

@@ -1,0 +1,6 @@
+This object appears, when the creature gets hurt and it disappears when it hits something.
+
+by Michael Zinn
+Michael.Zinn@gmx.de
+
+Version 1.00

@@ -1,0 +1,8 @@
+[DefCore]
+id=FSTF
+Name=Fetzen
+Category=4
+Width=3
+Height=3
+Offset=-1,-1
+Vertices=1

@@ -1,0 +1,15 @@
+[Action]
+Name=Harm
+NextAction=Harm
+FacetBase=1
+Length=1
+Delay=30
+StartCall=Harm
+
+[Action]
+Name=Blow
+NextAction=Blow
+FacetBase=1
+Length=1
+Delay=1
+StartCall=Blow

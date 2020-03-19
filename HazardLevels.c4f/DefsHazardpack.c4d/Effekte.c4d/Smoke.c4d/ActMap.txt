@@ -1,0 +1,8 @@
+[Action]
+Name=Smoke
+Procedure=FLOAT
+Length=50
+Delay=3
+Facet=0,0,32,32
+FacetBase=0
+EndCall=Remove

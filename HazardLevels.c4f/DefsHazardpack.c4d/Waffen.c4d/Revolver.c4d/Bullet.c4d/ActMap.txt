@@ -1,0 +1,6 @@
+[Action]
+Name=Travel
+Delay=1
+FacetBase=1
+StartCall=Travel
+NextAction=Travel

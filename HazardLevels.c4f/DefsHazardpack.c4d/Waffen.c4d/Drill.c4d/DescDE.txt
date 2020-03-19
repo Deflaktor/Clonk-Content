@@ -1,0 +1,1 @@
+Eine Waffe die ein kontinuierlich explodierendes Geschoss abfeuert und zu explodieren beginnt sobald sie ein Ziel trifft. Die Geschosse bleiben am Ziel haften.

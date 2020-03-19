@@ -1,0 +1,8 @@
+[Action]
+Name=Waypoint
+NextAction=Waypoint
+
+[Action]
+Name=ShowWaypoint
+FacetBase=1
+NextAction=ShowWaypoint

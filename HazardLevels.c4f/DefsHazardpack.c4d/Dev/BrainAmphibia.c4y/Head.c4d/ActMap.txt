@@ -1,0 +1,10 @@
+[Action]
+Name=Beat
+NextAction=Beat
+Directions=2
+FlipDir=1
+Delay=10
+Length=3
+Facet=0,0,126,96
+FacetTopFace=1
+FacetBase=1

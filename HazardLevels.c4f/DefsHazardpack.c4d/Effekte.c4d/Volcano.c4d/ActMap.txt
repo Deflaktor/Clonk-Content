@@ -1,0 +1,15 @@
+[Action]
+Name=Advance
+Procedure=NONE
+Delay=1
+NextAction=Advance
+StartCall=Advance
+
+[Action]
+Name=Discharge
+Procedure=NONE
+Length=100
+Delay=2
+EndCall=Remove
+PhaseCall=CastLava
+ 

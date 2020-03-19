@@ -1,0 +1,14 @@
+[Action]
+Name=Exist
+Procedure=FLOAT
+NextAction=Die
+Length=10
+Delay=1
+Facet=0,0,1,1
+
+[Action]
+Name=Die
+Procedure=NONE
+StartCall=Die
+
+

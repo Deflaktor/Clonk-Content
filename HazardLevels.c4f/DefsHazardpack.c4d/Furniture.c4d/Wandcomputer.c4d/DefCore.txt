@@ -1,0 +1,9 @@
+[DefCore]
+id=WN3V
+Name=Wandcomputer
+Category=1
+
+Width=66
+Height=56
+Offset=-33,-28
+Picture=0,0,66,56

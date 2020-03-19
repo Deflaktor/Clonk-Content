@@ -1,0 +1,9 @@
+[Action]
+Name=Fuse
+Procedure=NONE
+NextAction=Fuse
+Length=1
+Delay=40
+FacetBase=1
+EndCall=TimerTick
+

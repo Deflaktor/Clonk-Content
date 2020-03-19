@@ -1,0 +1,13 @@
+[Action]
+Name=Beat
+NextAction=BeatWait
+Delay=5
+Length=3
+Facet=0,0,24,24
+
+[Action]
+Name=BeatWait
+NextAction=Beat
+Delay=15
+Length=1
+Facet=48,0,24,24

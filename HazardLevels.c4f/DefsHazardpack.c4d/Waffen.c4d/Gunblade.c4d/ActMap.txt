@@ -1,0 +1,13 @@
+[Action]
+Name=Charge
+FacetBase=1
+NextAction=Idle
+Length=1
+Delay=3
+
+[Action]
+Name=Reload
+FacetBase=1
+NextAction=Idle
+Length=20
+Delay=1

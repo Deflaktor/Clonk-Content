@@ -1,0 +1,6 @@
+[Action]
+Name=Damage
+Delay=7
+Facet=45,0,45,15
+
+

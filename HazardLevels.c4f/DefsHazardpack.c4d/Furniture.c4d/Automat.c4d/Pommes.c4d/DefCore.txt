@@ -1,0 +1,17 @@
+[DefCore]
+id=PO3V
+Name=Pommes
+Category=4
+
+Value=2
+Mass=1
+Edible=1
+Width=7
+Height=11
+Offset=-4,-6
+Picture=8,0,100,142
+Vertices=4
+VertexX=-4,-4,3,3
+VertexY=-6,5,-6,5
+VertexFriction=30,30,30,30
+Collectible=1

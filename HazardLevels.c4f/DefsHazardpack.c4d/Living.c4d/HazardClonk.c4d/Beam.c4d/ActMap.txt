@@ -1,0 +1,16 @@
+[Action]
+Name=Sparkle
+Procedure=FLOAT
+Facet=0,0,35,35
+Length=7
+Delay=1
+NextAction=Sparkle2
+
+[Action]
+Name=Sparkle2
+Procedure=FLOAT
+Facet=245,0,35,35
+Length=4
+Delay=1
+NextAction=Idle
+EndCall=Removal

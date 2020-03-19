@@ -1,0 +1,15 @@
+[Action]
+Name=Auf
+NextAction=Zu
+Delay=2
+Length=7
+Facet=0,0,24,10
+EndCall=Geburt
+
+[Action]
+Name=Zu
+NextAction=Hold
+Delay=2
+Length=7
+Facet=0,0,24,10
+Reverse=1

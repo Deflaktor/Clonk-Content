@@ -1,0 +1,1 @@
+Einfache Energiezellen, die relativ schwach sind. Gedacht für Kraftfeldgenerator, Lasergewehr, LaserMG und den Shockwave-Emitter.

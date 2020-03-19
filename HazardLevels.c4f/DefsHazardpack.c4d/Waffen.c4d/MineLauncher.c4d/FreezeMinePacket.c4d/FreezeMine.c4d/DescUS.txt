@@ -1,0 +1,1 @@
+This mine will get activated upon hitting the ground and freeze to uncautious clonks.

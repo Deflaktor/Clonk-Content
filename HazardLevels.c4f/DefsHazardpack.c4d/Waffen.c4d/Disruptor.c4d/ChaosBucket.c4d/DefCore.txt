@@ -1,0 +1,13 @@
+[DefCore]
+id=RAM7
+Version=4,6,0
+Name=Chaos Bucket
+Category=16
+Width=10
+Height=7
+Offset=-5,-3
+Mass=1
+Picture=0,0,10,7
+Vertices=1
+VertexFriction=1
+Float=1

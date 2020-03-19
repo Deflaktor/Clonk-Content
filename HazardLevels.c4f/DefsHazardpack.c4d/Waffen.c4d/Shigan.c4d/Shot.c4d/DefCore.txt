@@ -1,0 +1,15 @@
+[DefCore]
+id=C_S5
+Name=PlasmaGunShot
+Category=16
+MaxUserSelect=10
+Width=4
+Height=4
+Offset=-2,-2
+Mass=10
+Picture=0,0,4,4
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=20
+ 

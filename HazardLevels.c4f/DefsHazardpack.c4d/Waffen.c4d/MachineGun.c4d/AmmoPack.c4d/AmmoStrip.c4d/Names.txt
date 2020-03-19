@@ -1,0 +1,2 @@
+DE:Munitionsstreifen
+US:Ammunition strip

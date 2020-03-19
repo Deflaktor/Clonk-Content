@@ -1,0 +1,15 @@
+[Action]
+Name=IsOnFire
+Delay=1
+Length=1
+FacetBase=1
+NextAction=IsOnFire
+EndCall=DoExtinguish
+
+[Action]
+Name=EternalFlame
+Delay=1
+Length=1
+FacetBase=1
+NextAction=EternalFlame
+EndCall=WasExtinguished

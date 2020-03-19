@@ -1,0 +1,2 @@
+DE:Eisgewehr
+US:Ice gun

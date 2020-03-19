@@ -1,0 +1,16 @@
+[DefCore]
+id=_YBF
+Name=New Object
+Version=4,9,5
+Category=8
+Prey=1
+Mass=80000
+Width=48
+Height=16
+Offset=-24,-8
+Vertices=5
+VertexX=-20,-10,0,10,20
+VertexY=5,5,5,5,5
+VertexFriction=100,100,100,100,100
+Oversize=1
+StretchGrowth=1

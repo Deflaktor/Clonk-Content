@@ -1,0 +1,15 @@
+[DefCore]
+id=_AM1
+Version=4,6,0
+Name=Phasershot
+Category=16
+Width=5
+Height=3
+Offset=-2,-1
+Mass=1
+Picture=0,0,5,3
+Vertices=1
+VertexFriction=1
+ColorByOwner=1
+Oversize=1
+StretchGrowth=1

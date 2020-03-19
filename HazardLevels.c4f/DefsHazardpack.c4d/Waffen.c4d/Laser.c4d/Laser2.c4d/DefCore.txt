@@ -1,0 +1,21 @@
+[DefCore]
+id=HLD_
+Version=4,6,0
+Name=Death laser
+Category=3600
+MaxUserSelect=3
+Width=26
+Height=7
+Offset=-12,-3
+Value=60
+Mass=10
+Picture=26,0,69,24
+Vertices=3
+VertexX=0,-12,12
+VertexY=3,3,3
+VertexFriction=100,100,100
+Rebuy=1
+Collectible=1
+Timer=1
+TimerCall=Reloaden
+IncompleteActivity=1

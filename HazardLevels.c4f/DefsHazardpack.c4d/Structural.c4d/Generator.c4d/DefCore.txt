@@ -1,0 +1,16 @@
+[DefCore]
+id=_GEN
+Name=Generator
+Category=2
+
+Width=225
+Height=110
+Offset=-112,-42
+Picture=0,0,225,110
+Version=4,2,0
+Vertices=1
+VertexX=0
+VertexY=42
+VertexFriction=100
+
+Grab=2

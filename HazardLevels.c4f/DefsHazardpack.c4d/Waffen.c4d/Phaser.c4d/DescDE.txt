@@ -1,0 +1,1 @@
+Eine einfache Waffe für den schnellen Clonk-zu-Clonk-Kampf. Hat man mehrere Phasor im Inventar, so kann man sie mittels Doppel-Graben fusionieren und so einen neuen, stärkeren Phasor kreieren.

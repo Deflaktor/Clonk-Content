@@ -1,0 +1,2 @@
+DE:Power Up
+US:Power Up

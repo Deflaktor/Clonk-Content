@@ -1,0 +1,1 @@
+Versorgt die Station mit Energie. Anfassen und Kommando 'Rauf' zum Einschalten.

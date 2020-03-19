@@ -1,0 +1,14 @@
+[DefCore]
+id=GLOB
+Version=4,9,1
+Name=Glob
+Category=4
+Width=4
+Height=9
+Offset=-2,-5
+Mass=2
+Picture=0,0,4,9
+Vertices=1
+VertexFriction=100
+Rotate=1
+ 

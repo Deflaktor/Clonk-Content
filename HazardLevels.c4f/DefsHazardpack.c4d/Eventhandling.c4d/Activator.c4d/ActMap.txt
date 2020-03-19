@@ -1,0 +1,15 @@
+[Action]
+Name=Showing
+Procedure=FLOAT
+Facet=0,0,10,10
+FacetBase=0
+NextAction=Showing
+Delay=200
+
+[Action]
+Name=Hiding
+Procedure=FLOAT
+Facet=11,0,10,10
+FacetBase=0
+NextAction=Hiding
+Delay=200

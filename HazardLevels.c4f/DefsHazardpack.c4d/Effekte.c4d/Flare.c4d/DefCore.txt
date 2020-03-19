@@ -1,0 +1,17 @@
+[DefCore]
+id=WAFL
+Name=Flare
+Category=4
+MaxUserSelect=10
+Width=1
+Height=1
+Offset=-1,-1
+Value=1
+Mass=1
+Picture=0,0,1,1
+Vertices=1
+VertexY=1
+VertexFriction=20
+
+
+ 

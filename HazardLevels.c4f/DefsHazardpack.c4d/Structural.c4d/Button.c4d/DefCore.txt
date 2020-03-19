@@ -1,0 +1,10 @@
+[DefCore]
+id=_BTN
+Name=Button
+Category=2
+Width=11
+Height=9
+Offset=-5,-4
+Picture=0,0,11,9
+Vertices=0
+Grab=2

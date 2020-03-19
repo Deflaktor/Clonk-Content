@@ -1,0 +1,13 @@
+[DefCore]
+id=LS31
+Version=4,9,1
+Name=Laser
+Category=16
+Width=3
+Height=5
+Offset=-1,-2
+Mass=1
+Picture=0,0,3,5
+Vertices=1
+VertexFriction=1
+Rotate=1

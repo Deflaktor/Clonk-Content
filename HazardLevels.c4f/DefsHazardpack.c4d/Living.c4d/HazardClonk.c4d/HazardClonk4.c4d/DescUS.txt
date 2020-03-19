@@ -1,0 +1,5 @@
+A specially trained clonk for most dangerous missions.
+
+Can carry up to five objects at a time. Inventory control via commands Special 1 and Special 2.
+
+Command Throw to fire weapons. Double stop, then Throw to drop weapons.

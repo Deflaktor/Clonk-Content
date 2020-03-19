@@ -1,0 +1,16 @@
+[DefCore]
+id=_VT2
+Version=4,9,1
+Name=Selbstschuﬂanlage
+Category=4
+MaxUserSelect=1
+Width=20
+Height=13
+Offset=-10,-5
+Value=20
+Mass=100
+Picture=0,0,20,13
+Vertices=4
+VertexX=-7,3,-7,3
+VertexY=7,7,-6,-6
+VertexFriction=100,100,100,100

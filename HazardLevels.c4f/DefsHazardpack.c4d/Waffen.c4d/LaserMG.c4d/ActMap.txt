@@ -1,0 +1,13 @@
+[Action]
+Name=Schuss
+Length=1
+Delay=5
+NextAction=Schuss
+StartCall=Schuss
+Sound=LaserMGShot
+
+[Action]
+Name=Stop
+FacetBase=1
+Delay=1
+NextAction=Idle

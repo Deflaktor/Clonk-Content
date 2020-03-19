@@ -1,0 +1,2 @@
+DE:Zerstörter Benzinkanister
+US:Destroyed gas can

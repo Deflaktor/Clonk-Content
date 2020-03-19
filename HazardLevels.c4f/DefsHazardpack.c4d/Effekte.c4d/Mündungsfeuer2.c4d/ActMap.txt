@@ -1,0 +1,10 @@
+[Action]
+Name=Flug
+Delay=1
+Length=3
+Facet=0,0,8,7
+Directions=2
+Procedure=FLOAT
+NextAction=Idle
+PhaseCall=Posi
+EndCall=Weg

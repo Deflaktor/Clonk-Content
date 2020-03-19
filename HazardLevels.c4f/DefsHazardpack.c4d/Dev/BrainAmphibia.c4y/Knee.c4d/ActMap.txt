@@ -1,0 +1,6 @@
+[Action]
+Name=Beat
+NextAction=Beat
+Directions=2
+FlipDir=1
+Facet=0,0,16,16

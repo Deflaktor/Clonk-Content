@@ -1,0 +1,13 @@
+[DefCore]
+id=RAM1
+Version=4,6,0
+Name=Disruptorschuss
+Category=16
+Width=13
+Height=9
+Offset=-6,-4
+Mass=1
+Picture=0,0,13,9
+Vertices=1
+VertexFriction=1
+Float=1

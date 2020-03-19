@@ -1,0 +1,11 @@
+[Action]
+Name=Drehen
+Directions=2
+Length=4
+Delay=2
+Facet=0,0,2,2
+NextAction=Drehen
+
+[Action]
+Name=Stop
+FacetBase=1

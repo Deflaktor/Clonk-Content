@@ -1,0 +1,1 @@
+Die Partikel-MP feuert Salven von geladenen Partikeln auf den Gegner, ist aber etwas ungenau. Kann mit grünen Disruptor-Paketen, orangenen Chaos-Paketen oder Batterie-Zellen geladen werden.

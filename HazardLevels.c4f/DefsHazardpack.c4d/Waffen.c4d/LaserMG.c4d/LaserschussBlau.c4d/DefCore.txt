@@ -1,0 +1,17 @@
+[DefCore]
+id=_AM0
+Version=4,9,1
+Name=Laser
+Category=16
+Width=5
+Height=3
+Offset=-2,-1
+Mass=1
+Picture=0,0,5,3
+Vertices=4
+VertexX=0,0,2,-2
+VertexY=2,-2,0,0
+VertexCNAT=8,4,2,1
+VertexFriction=100,100,100,100
+ContactCalls=1
+Rotate=0

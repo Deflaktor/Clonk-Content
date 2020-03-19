@@ -1,0 +1,6 @@
+Zielgenaue Langstreckenwaffe.
+
+Feuern: Hoch, Runter, Rechts, Links zum Zielen, dann erneut Feuern.
+
+Inventarwechsel oder doppelt Rechts oder Links zum Abbrechen.
+

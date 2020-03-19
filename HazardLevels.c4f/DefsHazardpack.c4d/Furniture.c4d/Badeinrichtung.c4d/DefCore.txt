@@ -1,0 +1,17 @@
+[DefCore]
+id=BA3V
+Name=Badeinrichtung
+Category=1
+
+Width=13
+Height=27
+Offset=-6,-13
+Picture=0,0,13,27
+Vertices=1
+VertexX=0
+VertexY=0
+
+
+
+
+

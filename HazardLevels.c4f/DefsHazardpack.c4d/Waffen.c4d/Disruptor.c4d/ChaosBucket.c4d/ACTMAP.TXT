@@ -1,0 +1,9 @@
+[Action]
+Name=Travel
+Procedure=FLOAT
+NextAction=Travel
+PhaseCall=Travel
+Delay=1
+Facet=0,0,10,7
+Length=20
+Directions=2

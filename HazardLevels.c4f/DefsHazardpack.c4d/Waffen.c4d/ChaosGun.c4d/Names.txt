@@ -1,0 +1,2 @@
+DE:Chaosgewehr
+US:Chaos gun

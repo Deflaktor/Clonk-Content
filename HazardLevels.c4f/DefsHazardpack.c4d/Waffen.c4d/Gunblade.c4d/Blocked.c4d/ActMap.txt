@@ -1,0 +1,10 @@
+[Action]
+Name=Effect
+Directions=2
+FlipDir=1
+Length=3
+Delay=1
+Facet=0,0,24,22
+EndCall=Remove
+
+

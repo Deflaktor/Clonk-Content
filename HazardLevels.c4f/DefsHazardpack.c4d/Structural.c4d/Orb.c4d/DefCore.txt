@@ -1,0 +1,10 @@
+[DefCore]
+id=_ORB
+Name=Orb
+Category=2
+Width=16
+Height=16
+Offset=-8,-8
+Picture=0,0,16,16
+SolidMask=0,0,16,16
+Vertices=0

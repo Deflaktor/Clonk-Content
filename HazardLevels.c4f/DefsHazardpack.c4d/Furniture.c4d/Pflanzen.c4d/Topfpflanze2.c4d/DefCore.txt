@@ -1,0 +1,14 @@
+[DefCore]
+id=PM3V
+Name=Palmen-Tpfpflanze
+Category=2
+Width=22
+Height=19
+Offset=-11,-10
+Picture=22,0,53,46
+Vertices=2
+VertexX=-11,11
+VertexY=9,9
+VertexFriction=100,100
+
+ 

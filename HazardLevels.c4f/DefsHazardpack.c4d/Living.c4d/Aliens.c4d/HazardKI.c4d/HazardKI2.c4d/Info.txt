@@ -1,0 +1,3 @@
+Über jedem Scriptabschnitt steht als Kommentar der Autor. Das Objekt darf selbstverständlich verwendet werden, bei Verwendung bestimmter Scriptstellen bitte den/die jeweiligen Autor(en) um Erlaubnis bitten.
+
+Above every scriptsection is the name of the author as a comment. Of course you can use the object it self for your own projects, but if you want to use only sections of the script, please ask the respectiv author for permission.

@@ -1,0 +1,11 @@
+[DefCore]
+id=_NRE
+Name=Nukerexplosion
+Category=4
+Mass=1
+Width=10
+Height=10
+Offset=-5,-5
+Vertices=1
+VertexX=0
+VertexY=0

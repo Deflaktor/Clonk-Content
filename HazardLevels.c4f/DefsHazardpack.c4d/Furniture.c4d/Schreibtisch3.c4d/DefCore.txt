@@ -1,0 +1,17 @@
+[DefCore]
+id=WT3V
+Name=Arbeitstisch
+Category=2
+
+Width=32
+Height=17
+Offset=-16,-8
+Picture=0,0,32,17
+Vertices=4
+VertexX=-16,16,16,-16
+VertexY=8,8,-8,-8
+
+
+
+
+

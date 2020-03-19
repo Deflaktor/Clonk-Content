@@ -1,0 +1,6 @@
+[Action]
+Name=Kaputt
+Length=1
+Delay=400
+FacetBase=1
+EndCall=Remove

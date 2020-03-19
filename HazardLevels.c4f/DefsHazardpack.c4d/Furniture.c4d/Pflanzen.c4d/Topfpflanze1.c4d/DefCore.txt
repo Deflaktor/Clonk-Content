@@ -1,0 +1,13 @@
+[DefCore]
+id=BC3V
+Name=Buschtopfpflanze
+Category=2
+Width=9
+Height=15
+Offset=-4,-7
+Picture=10,0,25,35
+Vertices=2
+VertexX=-4,5
+VertexY=8,8
+VertexFriction=100,100
+ 

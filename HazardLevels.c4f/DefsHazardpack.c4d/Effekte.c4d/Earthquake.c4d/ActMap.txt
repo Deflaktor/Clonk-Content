@@ -1,0 +1,13 @@
+[Action]
+Name=Quake
+Procedure=NONE
+Length=15
+Delay=3
+NextAction=Remove
+PhaseCall=ShakeEarth
+Sound=Earthquake
+
+[Action]
+Name=Remove
+StartCall=Remove
+ 

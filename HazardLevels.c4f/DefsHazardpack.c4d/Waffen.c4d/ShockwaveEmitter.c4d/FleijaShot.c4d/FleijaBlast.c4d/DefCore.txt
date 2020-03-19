@@ -1,0 +1,15 @@
+[DefCore]
+id=_FLB
+Version=4,6,1
+Name=Fleija-Blast
+Category=16
+Width=10
+Height=10
+Offset=-5,-5
+Mass=1
+Picture=0,0,627,627
+StretchGrowth=1
+Oversize=1
+BorderBound=1
+IncompleteActivity=1
+BlitMode=1

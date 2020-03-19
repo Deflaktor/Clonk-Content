@@ -1,0 +1,16 @@
+[DefCore]
+id=_WRK
+Name=Workshop
+Category=1
+Width=25
+Height=32
+Offset=-13,-17
+Value=10
+Mass=100
+Components=METL=6
+Picture=0,0,25,32
+Entrance=-11,-9,20,24
+Exclusive=1
+ContainBlast=1
+Timer=20
+TimerCall=ContentsCheck

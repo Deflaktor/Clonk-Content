@@ -1,0 +1,12 @@
+Global(0) - 0 = No Blood; 1 = Blood, 2 = Blood remains
+Global() - 
+Global(4) - Enemy HP extra multiplier in %
+		e.g.   0 for 100% enemy HP
+			 -50 for 50% enemy HP
+			+100 for 200% enemy HP
+Global(5) - Enemy reproduction extra multiplier in %
+		e.g.   0 for normal enemy reproduction
+			 -50 for half enemy reproduction
+			+100 for double enemy reproduction
+			-100 for no enemy reproduction
+Global(6) - LiftPlates need Energy

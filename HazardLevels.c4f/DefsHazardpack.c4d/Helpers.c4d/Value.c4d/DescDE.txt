@@ -1,0 +1,1 @@
+Sorgt dafür dass jeder Spieler seine korrekte Punktzahl angezeigt bekommt.

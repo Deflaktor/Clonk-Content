@@ -1,0 +1,17 @@
+[DefCore]
+id=__NR
+Name=Q4 Nuklearrakete
+Category=4
+Mass=0
+Width=11
+Height=7
+Offset=-4,-3
+Picture=0,0,22,14
+Vertices=1
+VertexX=1
+VertexY=1
+VertexFriction=100
+ColorByOwner=1
+
+[Physical]
+Float=1000

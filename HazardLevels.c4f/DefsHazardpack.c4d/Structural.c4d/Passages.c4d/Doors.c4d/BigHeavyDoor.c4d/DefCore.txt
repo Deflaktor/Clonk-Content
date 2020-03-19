@@ -1,0 +1,16 @@
+[DefCore]
+id=_HD1
+Name=BigHeavyDoor
+Version=4,9,1
+Category=1
+Width=5
+Height=48
+Offset=-3,-24
+Value=20
+Mass=200
+Vertices=2
+VertexX=0,0
+VertexY=-20,20
+VertexFriction=50,50
+TimerCall=CheckArea
+Timer=15

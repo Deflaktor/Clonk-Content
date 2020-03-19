@@ -1,0 +1,20 @@
+[DefCore]
+id=_TOK
+Name=Toter Ozark
+Version=4,9,1
+Category=16
+Width=39
+Height=21
+Offset=-20,-10
+Value=18
+Mass=24
+Picture=0,0,39,21
+Vertices=6
+VertexX=3,12,17,-8,-21,-11
+VertexY=-9,-10,10,10,10,-4
+VertexFriction=100,100,100,100,100,100
+VertexCNAT=4,8,1,2,1,2
+Placement=1
+Float=1
+StretchGrowth=1
+IncompleteActivity=1

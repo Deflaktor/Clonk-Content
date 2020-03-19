@@ -1,0 +1,17 @@
+[Action]
+Name=Reload
+NextAction=Idle
+FacetBase=1
+Length=60
+Delay=1
+PhaseCall=Reloaden
+
+[Action]
+Name=Laden
+Delay=1
+Length=55
+FacetBase=1
+NextAction=Reload
+Sound=AufladenA
+EndCall=Feuer
+PhaseCall=Reloaden2

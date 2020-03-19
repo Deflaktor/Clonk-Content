@@ -1,0 +1,13 @@
+[DefCore]
+id=_EGM
+Version=4,9,1
+Name=IceShot
+Category=16
+Width=8
+Height=2
+Offset=-2,-1
+Mass=1
+Picture=0,0,8,2
+Vertices=1
+VertexFriction=1
+ 

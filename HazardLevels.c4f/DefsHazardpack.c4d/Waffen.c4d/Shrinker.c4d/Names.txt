@@ -1,0 +1,2 @@
+DE:Schrumpfer
+US:Shrinker

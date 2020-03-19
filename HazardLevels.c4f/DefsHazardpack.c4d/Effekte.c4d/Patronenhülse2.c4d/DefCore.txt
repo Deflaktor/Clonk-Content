@@ -1,0 +1,12 @@
+[DefCore]
+id=WA2H
+Name=Patronenhülse
+Category=4
+Width=4
+Height=4
+Picture=0,0,4,4
+Offset=-2,-2
+Vertices=1
+VertexY=-2
+VertexFriction=50
+TimerCall=Test

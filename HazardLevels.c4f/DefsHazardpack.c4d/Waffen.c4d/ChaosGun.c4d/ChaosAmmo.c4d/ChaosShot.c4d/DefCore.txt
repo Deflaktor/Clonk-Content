@@ -1,0 +1,14 @@
+[DefCore]
+id=_AM7
+Version=4,4
+Name=Chaoskanonenkugel
+Category=16
+Width=4
+Height=4
+Offset=-2,-2
+Mass=1
+Picture=0,0,4,4
+Vertices=1
+VertexY=1
+VertexFriction=100
+ 

@@ -1,0 +1,12 @@
+[DefCore]
+id=KU3V
+Name=Kaktus-Topfpflanze
+Category=2
+Width=6
+Height=22
+Offset=-3,-11
+Picture=6,0,14,53
+Vertices=2
+VertexX=-3,3
+VertexY=8,8
+VertexFriction=100,100

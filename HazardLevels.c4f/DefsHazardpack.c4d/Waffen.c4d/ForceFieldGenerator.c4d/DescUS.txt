@@ -1,0 +1,1 @@
+The force field generator protects you with an solid force field, but its power decreases with every hit.

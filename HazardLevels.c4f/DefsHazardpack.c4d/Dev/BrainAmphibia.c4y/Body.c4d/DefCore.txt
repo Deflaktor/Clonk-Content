@@ -1,0 +1,13 @@
+[DefCore]
+id=_YBB
+Name=Brain Amphibia
+Version=4,9,5
+Category=8
+Prey=1
+Width=98
+Height=118
+Offset=-49,-59
+StretchGrowth=1
+Oversize=1
+Timer=1
+TimerCall=Activity

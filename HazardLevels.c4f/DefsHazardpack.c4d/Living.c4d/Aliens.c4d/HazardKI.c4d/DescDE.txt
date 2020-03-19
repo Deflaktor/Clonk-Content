@@ -1,0 +1,4 @@
+Dieser speziell für härteste Einsätze ausgebildete Clonk kann selbstständig mit allen Hazard-Waffen umgehen und findet sich in jeder Hazard Welt zurecht.
+
+Benötigt das "Hazard"-Objektpack (Hazard.c4d)
+Ein Gemeinschaftsprojekt von Hallifax, Clonk-Karl, Clonk Nukem und Nick-Nack. Fragen und/oder Anregungen bitte an Nick-Nack@HazardKI.de, weitere Informationen unter http://www.HazardKI.de/

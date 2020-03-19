@@ -1,0 +1,11 @@
+[Action]
+Name=Flug
+Directions=2
+Lenght=1
+Delay=1
+Facet=0,0,4,3
+Procedure=NONE
+NextAction=Flug
+EndCall=Flug
+
+
