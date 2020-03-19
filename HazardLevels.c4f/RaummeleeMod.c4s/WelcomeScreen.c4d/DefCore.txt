@@ -1,0 +1,17 @@
+[DefCore]
+id=_WEL
+Name=WelcomeScreen
+Category=1
+
+Width=66
+Height=19
+Offset=-33,-9
+Picture=0,0,66,19
+Vertices=4
+VertexX=-10,-10,10,10
+VertexY=-10,10,-10,10
+
+
+
+
+[Physical]

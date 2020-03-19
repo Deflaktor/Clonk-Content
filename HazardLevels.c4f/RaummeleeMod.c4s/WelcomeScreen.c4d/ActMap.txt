@@ -1,0 +1,14 @@
+[Action]
+Name=Scroll
+Procedure=NONE
+NextAction=Scroll
+Delay=30
+Length=4
+Facet=0,0,66,19
+
+[Action]
+Name=Broken
+Procedure=NONE
+Delay=10
+Facet=0,19,66,19
+

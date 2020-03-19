@@ -1,0 +1,12 @@
+[DefCore]
+id=_DEW
+Name=Drachen Krieg
+Category=1
+Mass=1
+Width=8
+Height=8
+Offset=-4,-4
+Vertices=1
+VertexX=0
+VertexY=0
+Picture=6,0,52,48

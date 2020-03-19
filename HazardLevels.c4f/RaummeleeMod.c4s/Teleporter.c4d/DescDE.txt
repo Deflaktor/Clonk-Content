@@ -1,0 +1,4 @@
+Ein praktischer Ort-zu-Ort Teleporter fuer eine Person. Aber Vorsicht, man weiss nicht wo man landet.
+
+
+Autor leider unbekannt, da ich diesen Teleporter mal verändert habe und jetzt mein Name dort steht. Falls der Autor etwas gegen die Benutzung des Teleporters haben sollte, bitte mir melden. Ich habe ihn etwas umgecodet, aber ist ja immer noch nicht mein Objekt ;)
