@@ -1,0 +1,67 @@
+﻿Gefixt = //
+
+CrewSelection Objektskript für schnelleres Waffenwechseln
+
+// Die Chipkarten Objectives namen sind zu lang
+// Die Chipkarten Objectives Löschen sobald die zugehörige Karte gelöscht ist
+// Man kann die Dusche schon am Anfang entdecken
+// Power-Suit und Gravity-Suit beim Sterben Respawnen
+// Atomraketen an der Turmspitze ist keine gute Idee
+// Horizontally Fixed Ozarks größere Reichweite
+// Power-Suit als zweites Secondary Objective machen
+// Blaue Energiezelle bei Laser-MG
+// Glücklicherweise haben sie bereits gesorgt dass die türen offen sind = 3 zeilen
+// Wir haben die Suche nach einem Blitzer abgeschlossen -> Dannach leere nachricht
+// TouchField neben dem DronenGate ist nach rechts verschoben
+// Stippel Erscheinen Feld weiter nach links Damit sie früher kommen
+// Button nur beim Einschalten Triggern
+// Laser trifft verbündete
+// Symbole Dusche und Stern vertauscht
+// Knopf für Lift mit Blauer Batterie funktioniert am Anfang nicht und bleibt gedrückt ("Undefined Event" Meldung)
+// Normales Deploy und Nicht Cut-Scene Deploy
+?? Moffs attackieren nicht 
+// Orbs werden von Nuklearexplosion getroffen und Sicht wechselt rüber
+// Statt Orbs One Way Schalter machen
+// Shuttle kann man nicht anhalten
+// Zeigen wo es einen Raketenwerfer gibt wenn man Atomraketen braucht um Glaskuppel kaputt zu machen
+// Wenn man den Turm hochklettern muss, 2 Teleporter einbauen weil es sonst nervig ist wenn man wieder runterfällt
+// Stippel die runterfallen nachdem man Magnetspule gefunden hat mehr in die länge ziehen bis ganz nach oben
+// Horizontally Fixed Ozarks höhere Reichweite: [-350,350]
+// Stückchen entfernen bei generator
+// Die beiden Granaten spawns näher zum ozark
+// Benzin kanister für ersten Flammenwerfer zugänglich machen
+// Wartungskanal wo man Tisch braucht defekt
+// Boss Raum Gegner sind Freunde
+// Grafik von kaputter Dusche ändern dass man Schacht sieht
+// Wichtige Dusche Local(0) setzen
+// Nachdem man alle Chipkarten hat, Primärziel updaten
+// Man darf nicht zum Boss ohne Strom
+// Generator Kaputt -> vor statusanzeige die touchfields aktivieren
+// Unsichtbare Wand wegmachen und events anpassen wenn man laser gefunden hat
+// ozark stampfbar machen
+// Supraleitende Magnetspule Text anpassen
+// Man kann tisch in Schacht rein tun mit Stern -> Ausspucken
+// Drohnen werden zu schnell produziert
+// GravitySuit hzck schwimmt schneller als gehen
+// Moff steckt fest im Bett und im Lift oben
+// Delete ObjectiveID sollten TriggerOnce sein
+// Stückchen wieder hin machen
+// "Ein Raketenwerfer befindet sich hier" sind nur zwei Zeilen
+// Man kann sich einsperren in Boss Raum wenn man wieder auf Orb schießt -> trigger once machen
+Sekundärziel zum Schluss machen: Muntionspacks beantragen -> Landezone sichern
+// Lifts so einstellen dass sie immer einen Weg bis zur weiße Karte frei machen wenn kein Strom
+// Alle Granatenpacke neu initialisieren
+// Blitze fliegen bis Endgegner
+// Blitze schaden wird nicht erkannt von wem der kommt
+// Kein "Gute Arbeit" wenn man nicht bei Statusanzeige vom Generator war und ihn danach repariert hat
+// Lift bleibt stecken wegen "MoveTo"
+// Falsche Meldung "Glücklicherweise haben sie bereits dafür gesorgt dass diese Türen offen sind"
+Schleimwaffe wird per Random erzeugt
+// Raketenpack kommt nicht nach in Wasser unten rechts. Man kann steckenbleiben wenn man Munition verbraucht.
+//Oben Phasor bei Flammenwerfer zu stark -> Normale Phasor
+//KI wird in der Wand erzeugt nach Arena
+//Statt SpecialDoor SITür machen damit man schneller Generator ausmachen kann und wieder zurück und daneben raum statt schacht
+//SmetSecrt bei Boss hört auf zu spielen und dann kommt standard playlist
+In der Arena: "Achtung Trigger! Das ist eine Falle" bla
+
+Unsichtbarkeits Generator verlangsamt das Spiel

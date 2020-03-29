@@ -1,0 +1,21 @@
+[DefCore]
+id=SPD2
+Name=Superdome
+Version=4,9,5
+Category=2
+Width=122
+Height=44
+Offset=-61,-22
+Value=200
+Mass=3000
+Components=METL=4;GLAS=8
+Picture=0,0,122,44
+SolidMask=124,0,122,44,0,0
+TopFace=0,0,122,44
+Vertices=2
+VertexX=-61,61
+VertexY=22,22
+VertexFriction=100,100
+TimerCall=Pump
+
+;Scaled from metroid = 53.57142857142857%

@@ -1,0 +1,17 @@
+[Action]
+Name=Undefined
+Procedure=FLOAT
+Facet=0,0,10,10
+FacetBase=0
+NextAction=Undefined
+Delay=200
+
+[Action]
+Name=Set
+Procedure=FLOAT
+Facet=10,0,10,10
+FacetBase=0
+NextAction=Set
+Delay=200
+
+

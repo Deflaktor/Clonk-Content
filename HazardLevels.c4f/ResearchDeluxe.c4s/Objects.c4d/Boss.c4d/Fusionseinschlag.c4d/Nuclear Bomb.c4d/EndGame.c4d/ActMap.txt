@@ -1,0 +1,8 @@
+[Action]
+Name=Los
+Delay=100
+Facet=0,0,1,1
+Procedure=FLOAT
+Length=1
+NextAction=Los
+EndCall=EndGame

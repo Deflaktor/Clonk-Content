@@ -1,0 +1,14 @@
+[Action]
+Name=Destructing
+Procedure=FLOAT
+Delay=1
+FacetBase=1
+PhaseCall=Destruction
+NextAction=Destructing
+
+[Action]
+Name=Nothing
+Procedure=FLOAT
+Delay=5
+FacetBase=1
+EndCall=Remove

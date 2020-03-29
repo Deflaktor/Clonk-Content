@@ -1,0 +1,9 @@
+[DefCore]
+id=FBRG
+Name=ForceFieldBridge
+Version=4,9,5
+Category=1
+Width=72
+Height=8
+Offset=-27,-10
+Picture=0,0,74,8

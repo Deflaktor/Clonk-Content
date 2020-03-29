@@ -1,0 +1,17 @@
+[Action]
+Name=Start
+Procedure=FLOAT
+Delay=1
+Length=12
+Facet=0,0,40,40
+EndCall=Kill
+NextAction=Blast
+
+[Action]
+Name=Blast
+Procedure=FLOAT
+Delay=1
+Length=4
+Facet=480,0,40,40
+PhaseCall=Kill
+NextAction=Blast

@@ -1,0 +1,12 @@
+[DefCore]
+id=_LOC
+Name=Suchscreen
+Category=1
+
+Width=64
+Height=34
+Offset=-2,-2
+Picture=0,0,64,34
+Vertices=1
+VertexX=0
+VertexY=0

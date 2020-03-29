@@ -1,0 +1,14 @@
+[DefCore]
+Name=SpawnPointbeiSchwer
+id=_SP5
+Category=4
+Width=10
+Height=10
+Offset=-5,-5
+Picture=0,0,10,10
+Version=4,4,0
+Vertices=1
+VertexX=0
+VertexY=5
+VertexFriction=100
+TimerCall=Timer

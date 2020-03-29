@@ -1,0 +1,16 @@
+[DefCore]
+id=DF3A
+Version=4,5,4
+Name=Deckenfalle
+Category=16
+Width=28
+Height=22
+Offset=-14,-11
+Value=10
+Mass=20
+Components=METL=5;
+Picture=0,0,28,22
+Vertices=2
+VertexX=-11,11
+VertexY=-40,-40
+VertexFriction=50,50

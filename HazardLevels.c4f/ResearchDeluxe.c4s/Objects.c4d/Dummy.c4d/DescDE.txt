@@ -1,0 +1,5 @@
+Ein speziell ausgebildeter Clonk für härteste Einsätze.
+
+Kann bis zu fünf Objekte mit sich tragen. Inventarsteuerung über Taste Spezial 1 und Spezial 2.
+
+Waffen feuern über Taste Werfen. Ablegen mit Doppelstop-Werfen.

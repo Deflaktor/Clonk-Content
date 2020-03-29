@@ -1,0 +1,6 @@
+[Action]
+Name=Rumble
+Procedure=FLOAT
+Delay=1
+NextAction=Rumble
+EndCall=Rumbling

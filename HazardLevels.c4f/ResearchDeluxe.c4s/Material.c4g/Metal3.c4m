@@ -1,0 +1,10 @@
+[Material]
+Name=Metal3
+Color=130,130,130,160,160,160,190,190,190
+Shape=0
+Density=50
+Friction=100
+MaxAirSpeed=100
+MaxSlide=250
+BlastShiftTo=Metal2
+ 

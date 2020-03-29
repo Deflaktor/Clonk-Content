@@ -1,0 +1,8 @@
+[DefCore]
+Name=Player Spawn Point
+id=_GS1
+Category=1
+Width=10
+Height=10
+Offset=-5,-5
+Picture=0,0,1,1

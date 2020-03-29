@@ -1,0 +1,9 @@
+
+[Action]
+Name=Drain
+Procedure=NONE
+Delay=1
+FacetBase=1
+NextAction=Drain
+StartCall=Imu
+Sound=Pumper

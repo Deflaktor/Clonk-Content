@@ -1,0 +1,11 @@
+[DefCore]
+id=_SBL
+Name=Platform
+Version=4,1,9,4
+Category=1
+Width=31
+Height=14
+Offset=-15,-7
+Picture=0,0,31,14
+TimerCall=Movement
+Timer=1

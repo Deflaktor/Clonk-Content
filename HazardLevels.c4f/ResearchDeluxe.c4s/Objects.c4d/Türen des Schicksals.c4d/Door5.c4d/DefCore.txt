@@ -1,0 +1,16 @@
+[DefCore]
+id=RDR5
+Name=Tür
+Category=1
+Width=4
+Height=32
+Offset=-2,-16
+Value=10
+Mass=100
+Components=METL=3
+Vertices=2
+VertexX=0,0
+VertexY=-11,11
+VertexFriction=50,50
+Timer=15
+TimerCall=CheckArea

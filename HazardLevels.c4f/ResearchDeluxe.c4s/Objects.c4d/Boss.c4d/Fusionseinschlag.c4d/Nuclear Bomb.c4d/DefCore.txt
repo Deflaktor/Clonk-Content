@@ -1,0 +1,19 @@
+[DefCore]
+id=NEBE
+Name=Nuklear Bombe
+Category=3332
+MaxUserSelect=1
+Width=39
+Height=47
+Offset=-18,-46
+Value=1000
+Mass=500
+Components=ATOM=1;
+Picture=0,0,39,47
+Vertices=1
+VertexY=1
+VertexFriction=20
+Rebuy=1
+BorderBound=1
+TimerCall=ExecLgt
+Timer=2

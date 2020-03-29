@@ -1,0 +1,236 @@
+MoveTo
+Running
+Idle
+ControlUpSingle
+ControlDownSingle
+@M3intro
+Rage
+Sind erfolgreich gelandet, beginnen Erkundung der Einrichtung.
+Verstanden. Wir verfolgen Ihre Mission und werden Sie mit wichtigen Informationen unterstützen.
+Alles klar.
+@Bond
+@M3remix1
+Die Energieversorgung scheint ausgeschaltet zu sein. Suchen Sie einen Weg zum Generatorraum.
+Verstanden.
+ShootThorn
+Achtung %s! Sie nähern sich einer feindlichen Lebensform!
+Dieses Chippie scheint einen schlechten Tag gehabt zu haben. Sie sollten es meiden.
+Sie brauchen hier einen Blitzer um die Sicherheitstür zum Generatorrraum öffnen zu können.
+Wir suchen unsere Datenbank ab, wo sich in der Einrichtung einer befindet.
+Suchen Sie inzwischen nach nützlichen Waffen.
+Gute Arbeit, %s|Dieser Laser wird Ihnen gegen Chippies und Stippel sehr hilfreich sein.
+Wir haben die Suche nach einem Blitzer abgeschlossen. Wir schicken Ihnen die Koordinaten.
+Der Blitzer befindet sich in dieser Tür. Sie müssen einen Weg dahin finden.
+Dieser Phasor ist zwar noch schwach, aber wenn Sie mehr davon sammeln, wird er zur wahren Wunderwaffe!
+Gute Arbeit, %s! Jetzt müssen Sie nur noch zurück zum Generator!
+Wie Sie dahin kommen, müssen Sie sich selbst was einfallen lassen.
+@smetentr
+Organic.it
+Diese Feuerkugeln explodieren wenn sie Ihnen zu Nahe kommen. Der Phasor ist besonders effektiv gegen sie.
+Hier ist der Brütraum. Das primäre Ziel ist es dieses Objekt zu zerstören.
+Diese Türen versperren uns den Weg. Sie sind aus einem extrem stabilen Material gefertigt.
+Wir werden Informationen bezüglich den Fundorten der Chipkarten suchen.
+Suchen Sie in der Zwischenzeit den Weg zurück zum Generatorraum.
+Zu versuchen sie mit Gewalt aufzubrechen ist zwecklos.
+Unsere Datenbanken sagen, dass wir spezielle Indentifizierungs-Chipkarten brauchen um einzutreten.
+Über diesen Schacht kommen Sie zurück zum Generatorraum.
+Kommandant, der Generator scheint defekt zu sein!
+Die Analyse läuft.
+Der Generator braucht eine neue supraleitende Magnetspule.
+Wir suchen in unserer Datenbank nach den Koordinaten des Ersatzteillagers.
+Wir haben das Ersatzteillager gefunden.
+Hier befindet es sich, zusammen mit jeder Menge Magnetspulen.
+Glücklicherweise hat sich der Lift ein Stück bewegt, sodass Sie hier nun hindurch gelangen können.
+%s! Da oben befinden sich jede Menge Stippel! Seien Sie vorsichtig!
+Kommandant, die Fahrstühle bewegen sich nicht!
+Suchen Sie nach nützlichen Waffen, während wir nach dem Fundort von einem Blitzer suchen.
+Sie müssen den Blitzer in dieser Tür bergen um mit dessen Hilfe in den Generatorraum zu kommen.
+Dazu müssen Sie die fünf Identifizierungs-Chipkarten finden.
+Sie müssen die Brutstätte zerstören.
+Finden Sie den Weg zurück zum Generator.
+Gelangen Sie in den Wartungsschacht, um zurück zum Generatorraum zu kommen.
+Finden Sie einen Weg zum Ersatzteillager und bringen Sie eine Magnetspule zurück zum Generator.
+Der Lift hat sich ein Stück bewegt und somit einen neuen Weg eröffnet.
+Suchen Sie einen Weg zum Generatorraum.
+Vergessen Sie nicht: Ihr Primärziel ist es den Brutraum zu finden und die Brutstätte zu zerstören.
+Finden Sie den Brutraum und zerstören Sie die Brutstätte.
+Gehen Sie zur Statusanzeige des Generators.
+%s,|bitte gehen Sie zur Statusanzeige des Generators.
+Gute Arbeit, %s!|Diese Drache ist eine mächtige Waffe und wird Ihnen sehr hilfreich sein!
+SetTargets
+Normal Game Start
+Quest Game Start
+Create Stippels
+After generator exploded only
+Change doors for Normal Game Mode
+Change destination for Quest Game Mode only
+Normal Door Entry for Normal Game Mode only
+Normal Compartment Store for Quest Game Mode only
+New Secondary Objective
+New Primary Objective
+Make Clonks stop moving in X direction
+Normal Door for Normal Game Mode Only
+Delete Weapon and Hatch for Quest Game Mode only
+Delete Spawn Point for Normal Game Mode only
+Spawn Orb with target to Special Door in the East
+Delete Table for Normal Game Mode Only, the Quest items are being deleted through hard code.
+Delete for Quest Game Mode only
+Delete for Normal Game Mode only
+Phase 2: As soon as you approach the shrinker
+Phase 1: Beginning
+Normal Compartment Store for Normal Game Mode only
+Move Switch here for Quest Game Mode only
+Delete Primary Objective for Normal Game Mode
+Change to Ozarks Sign for Normal Game Mode only
+Spawn Ozarks for Normal Game Mode only
+SpawnRandomID
+Spawn Random Weapon for Normal Game Mode only
+Delete hidden Maintainance Hatch for Quest Game Mode only
+Ausgezeichnete Arbeit,| %s!
+Jetzt haben Sie Zugang zu beinahe sämtlichen Arealen in dieser Einrichtung!
+Wir fangen mit der Analyze an, wie sie an die Identifizierungs-Chipkarten gelangen können.
+In der Zwischenzeit empfehle ich Ihnen sich diese Powerrüstung zu holen. Sie wird Ihnen sehr nützlich sein.
+Phase 3: As soon as the generator is repaired
+Gute Arbeit,|%s!
+Finden Sie nun einen Weg zurück zum Generator und reparieren Sie ihn.
+Finden Sie einen Weg zurück zum Generator und reparieren Sie ihn.
+Got the Generator spare part
+Generator Running again
+Delete Secondary Objective
+New optional objective
+New secondary objective, because old one is packed now.
+Holen Sie sich diese Powerrüstung.
+%s!|Wir haben drei von fünf Identifizierungs-Chipkarten lokalisiert!
+Die blaue Identifizierungs-Chipkarte befindet sich hier.
+Diese Tore sind aus dem selben Material gefertigt wie die beim Brutraum. Somit ist rohe Gewalt auch hier keine Option.
+Jedoch können Dronen diese Tore mit ihren Funksignalen öffnen.
+Da die Energieversorgung jetzt eingeschaltet ist, werden kontinuierlich Dronen produziert.
+Alles was sie tun müssen ist also eine Drone zu den Toren zu locken, damit diese sich öffnen.
+Show Secondary Objective how to get first ID Card
+Deactivate Trigger to not let it get triggerd again when player looks at secondary objective
+Die rote Identifizierungs-Chipkarte befindet sich hier.
+Jedoch haben wir bisher noch keinen Weg gefunden an sie ran zu kommen.
+Sie sollten sich die Gegend dort anschauen und wir finden vielleicht einen Weg.
+Delete optional objective
+Diese Powerrüstung verfügt über einen Trägheits-Stabilisator.
+Damit können Sie mittels Doppel-Graben in der Luft stehen bleiben oder sich beim Stürzen sofort aufrichten.
+Beachten Sie aber, dass es etwas dauert bis diese Fähigkeit wieder einsatzbereit ist.
+Des weiteren gibt es einen Bonus von +50 Punkte auf Ihre Gesundheit.
+Das einzige was unsere Datenbank hergeben konnte war dieses Symbol.
+Die grüne Identifizierungskarte konnten wir bisher nicht lokalisieren.
+Für diese haben wir dieses Symbol zu Gesicht bekommen.
+Das Gleiche gilt für die gelbe Identifizerungs-Chipkarte.
+Finden Sie heraus was es mit diesem Symbol auf sich hat.
+Set ID Card Objective 1
+Set ID Card Objective 2
+Set ID Card Objective 3
+Set ID Card Objective 4
+%s,|die Glaskuppel ist robust, hat aber am oberen Ende eine Schwachstelle!
+Dennoch brauchen Sie mindestens Atomraketen um die Glaskuppel zu zerstören.
+Zerstören Sie die Glaskuppel mit Atomraketen um an die Chipkarte ran zu kommen. Zielen Sie auf das obere Ende!
+Dome destroyed, everything under water
+Gute Arbeit, jetzt können Sie die Identifizierungs-Chipkarte holen.
+Bringen Sie die Identifizierungs-Chipkarte zu ihrer rechtmäßigen Tür.
+Delete ID Card Objective 1
+Delete ID Card Objective 2
+Delete ID Card Objective 3
+Delete ID Card Objective 4
+Sehr gut! Bringen Sie die Identifizierungs-Chipkarte nun zu ihrer rechtmäßigen Tür.
+ID Card 3 has been collected
+ID Card 1 has been collected
+ID Card 4 has been collected
+Check if under water
+Finden Sie einen Weg an die Gravity-Suit ran zu kommen.
+Diese Gravity-Suit wird Ihnen sehr nützlich sein. Finden Sie einen Weg an sie ranzukommen.
+Gut gedacht,|%s!| Jetzt können sie einfach dort hin schwimmen.
+Holen Sie sich die Gravity-Suit
+Die Gravity-Suit verfügt über eine hyper-fortschrittliche Trägheits-Aufhebung.
+Sie hält den Träger kontinuierlich aufrecht und gibt ihm die Möglichkeit unter Waser zu gehen.
+Des Weiteren kann der Träger die Trägheits-Aufhebung der Powerrüstung uneingeschränkt nutzen.
+Die Laser-MG ist eine äußerst starke Waffe.
+Verschiedene Batterien verleihen ihr verschiedene Projektile.
+Beispielsweise lassen gelbe Batteriezellen die Laser-MG Geschosse verschießen die durch Wände fliegen.
+Delete Spawnpoint for Nuclear Missles after Dome is destroyed
+Laser-MG not gotten, yet
+ForceOff
+Release Button
+SetType
+Deploy Player if he dies in Sky Background
+Button has been pressed
+Make platform and blue battery only visible and grabbable to the actuator
+SetTarget1AndStart
+Triggered when item from platform has been snatched
+Respawn with Power-Suit and give every clonk one but the actuator.
+Respawn with Gravity-Suit and give every player one except the actuator
+Blue battery already gotten
+Blue battery not gotten yet
+Gute Arbeit, Sie haben den Fundort der gelben Identifizerungs-Chipkarte ausfindig gemacht.
+Der Raum ist jedoch gefüllt mit Fireballs. Wenn Sie da rein gehen werden Sie in Stücke gerissen!
+Ich schlage vor Sie ziehen sich zurück und kommen vorbereitet wieder.
+So könnten Sie unbemerkt die Identifizerungs-Chipkarte da raus holen.
+Wenn Sie einen Kraftfeldgenerator mit einer blauen Energiezelle speisen, macht er Sie unsichtbar.
+Holen Sie diese Identifizierungs-Chipkarte.
+Mit Hilfe eines Kraftfeldgenerators und einer blauen Energiezelle können Sie hier rein.
+Doors open
+Doors closed
+Gute Arbeit, Sie haben die grüne Identifizierungs-Chipkarte ausfindig gemacht!
+Wenn Sie diesen Orb beschießen, werden diese Türen sich öffnen.
+Sie müssen dafür eine Waffe finden die es Ihnen erlaubt Dinge hinter Wänden zu treffen.
+Nutzen Sie dafür die Laser-MG im Zusammenhang mit gelben Energiezellen.
+Glücklicherweise haben Sie bereits dafür gesorgt, dass die Türen offen sind!
+Hier ist die grüne Identifizierungs-Chipkarte.
+Sie kommen dahin indem Sie in diesen Wartungsschacht klettern.
+Nutzen Sie die Laser-MG im Zusammenhang mit gelben Energiezellen. Finden Sie heraus, wo es nützlich ist.
+When all orbs have been hit
+Phase 4: Boss Fight
+Do not deploy player if he dies in sky background
+Not active, removed
+Extract Liquids
+Move Boss here
+Clip Boss here
+Clip
+Boss Blast
+Dieser herunterfallende Müll wird Sie erschlagen!
+Am besten Sie feuern einige Raketen den Abfallschacht empor um eine Verstopfung zu verursachen.
+4th Card already found
+Move elevators out of way when no energy
+Mit einem Flammenwerfer könnten Sie an eine so hohe Stelle rankommen.
+Show 5th Card objective
+5th card objective
+Delete ID Card Objective 5
+Die weiße Identifizierungskarte befindet sich hier.
+Let the doors blink for 20
+Let the doors blink for 40
+Ein Raketenwerfer befindet sich hier.
+Zerstören Sie die Brutstätte!
+Energy activated
+Energy deactivated
+Damit sich dieses Tor bewegt, muss die Energieversorgung wieder eingeschaltet werden.
+@smetsecr.mid
+@warham40k.ogg
+@goldenslaghterer.ogg
+Hull broken
+Miniboss defeated
+Arena
+@KomplizierteSache.mid
+Turn Off Generator
+Turn On Generator
+Set Respawn Points
+Phase 1
+Phase 2
+Phase 3
+Phase 4
+Phase 5
+Godown.it
+Arena End
+Remove all Forcefields
+Munition
+Phase 6
+SaveMe.it
+@BK2MaxMan.mid
+Delete Hotlaser
+Achtung, %s!|Das ist ein Hinterhalt!
+Es kommen jede Menge Gegner auf Sie zu!
+In diesem Muntionslager gibt es ab und zu Nachschub, behalten Sie es im Auge!
+Open Quest Game Start
+ 

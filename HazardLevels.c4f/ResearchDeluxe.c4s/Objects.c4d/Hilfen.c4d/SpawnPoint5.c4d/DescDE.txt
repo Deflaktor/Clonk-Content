@@ -1,0 +1,5 @@
+Ein SpawnPoint erzeugt Objekte an einer beliebigen Position im Szenario.
+
+Den SpawnPoint einfach an der gewünschten Stelle erschaffen. Anschließend ein Objekt des zu erzeugenden Typs in den SpawnPoint verschieben. Der gesetzte SpawnPoint wird unsichtbar.
+
+SpawnPoints erzeugen nach einer Verzögerung jeweils ein Objekt des angegebenen Typs. Neue Objekte werden jedoch erst erzeugt, sobald das Vorgängerobjekt verbraucht, d.h. aus dem Szenario verschwunden ist.

@@ -1,0 +1,8 @@
+[Action]
+Name=Blow
+Procedure=NONE
+Length=1
+Delay=1
+Facet=0,0,1024,1024
+NextAction=Blow
+StartCall=BlowExec
