@@ -62,6 +62,21 @@ Schleimwaffe wird per Random erzeugt
 //KI wird in der Wand erzeugt nach Arena
 //Statt SpecialDoor SITür machen damit man schneller Generator ausmachen kann und wieder zurück und daneben raum statt schacht
 //SmetSecrt bei Boss hört auf zu spielen und dann kommt standard playlist
-In der Arena: "Achtung Trigger! Das ist eine Falle" bla
+
+In der Arena: "Achtung Trigger! Das ist eine Falle" bla  -> Immer noch
 
 Unsichtbarkeits Generator verlangsamt das Spiel
+
+Laser keine Nachladezeit
+Ozark Globs -> Clonk tumbelt nicht
+Explosive Kiste links die Chippies enthält -> Nachkommen entstehen außen
+Spawnpoint bei Mörderisch sichtbar
+Spind tanzt rum dort über dem Schwimmbecken wo man Schrumpfer braucht
+Raketenbomber-Pack -> Raketen fliegen in alle richtungen wegen der Explosion
+Laser findet geschrumpften Ozark nicht?
+HazardKI kommt aus dem Spind raus und läuft erstmal nach links. Warum?
+Physik Werte wenn man sich schrumpft stimmen nicht (clonk kann nicht mehr springen)
+MapScreen zeigt HazardKIs an
+Auf den Knopf drücken damit die Platform kommt fokusiert die Kamera nicht
+Eingefronee Moff wird unsichtbar
+Nach der Arena geht strom aus und Typ mit Blitzer spawnt zu weit oben
