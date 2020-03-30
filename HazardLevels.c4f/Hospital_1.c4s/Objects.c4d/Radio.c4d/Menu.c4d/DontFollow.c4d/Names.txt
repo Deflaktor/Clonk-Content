@@ -1,0 +1,2 @@
+DE:Clonk nicht verfolgen
+US:Don't follow Clonk

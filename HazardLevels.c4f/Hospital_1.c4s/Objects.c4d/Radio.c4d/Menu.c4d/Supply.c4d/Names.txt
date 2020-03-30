@@ -1,0 +1,2 @@
+DE:Blitzableiter versorgen
+US:Supply rods with energy

@@ -1,0 +1,13 @@
+[Action]
+Name=Flash
+Length=5
+Delay=1
+Facet=0,0,7,31,0,0
+NextAction=Wait
+
+[Action]
+Name=Wait
+Length=1
+Delay=100
+Facet=35,0,7,31,0,0
+NextAction=Flash

@@ -1,0 +1,10 @@
+[DefCore]
+id=_ANT
+Name=Antenna
+Category=1
+Width=7
+Height=31
+Offset=-3,-30
+Value=25
+Mass=1800
+Components=METL=5

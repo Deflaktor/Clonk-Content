@@ -1,0 +1,12 @@
+[Material]
+Name=Tirium
+Color=30,150,130,25,120,105,10,140,125
+Shape=1
+Density=50
+Friction=50
+BlastFree=1
+Blast2Object=TIR1
+Blast2ObjectRatio=120
+MaxAirSpeed=100
+MaxSlide=1
+ 

@@ -1,0 +1,13 @@
+[Material]
+Name=Blood
+Color=244,0,0,216,0,0,192,73,17
+ColorAnimation=1
+Density=25
+Instable=1
+MaxAirSpeed=25
+MaxSlide=100
+WindDrift=0
+Corrode=100
+Extinguisher=1
+
+ 

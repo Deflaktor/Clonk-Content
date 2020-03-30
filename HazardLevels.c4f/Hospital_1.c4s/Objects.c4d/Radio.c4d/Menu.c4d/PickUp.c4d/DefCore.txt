@@ -1,0 +1,8 @@
+[DefCore]
+id=MI_P
+Name=MenuItemPickup
+Category=1
+Width=1
+Height=1
+Picture=0,0,21,28
+ 

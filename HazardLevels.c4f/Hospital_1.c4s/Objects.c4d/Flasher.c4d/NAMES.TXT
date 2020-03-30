@@ -1,0 +1,2 @@
+DE:Flasher
+US:Flasher

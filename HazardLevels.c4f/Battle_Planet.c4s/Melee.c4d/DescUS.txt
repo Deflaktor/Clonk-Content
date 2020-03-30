@@ -1,0 +1,1 @@
+There can only be one player to win the round.

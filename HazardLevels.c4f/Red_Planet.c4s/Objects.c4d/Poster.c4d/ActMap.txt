@@ -1,0 +1,6 @@
+[Action]
+Name=Hang
+Procedure=FLOAT
+FacetBase=1
+NextAction=Hang
+Delay=200

@@ -1,0 +1,2 @@
+DE:Blitzableiter nicht versorgen
+US:Don't supply rods with energy

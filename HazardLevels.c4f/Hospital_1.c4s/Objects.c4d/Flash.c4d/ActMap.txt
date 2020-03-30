@@ -1,0 +1,11 @@
+[Action]
+Name=Flash
+Length=8
+Delay=2
+Facet=0,0,8,9,0,0
+NextAction=Flash
+
+[Action]
+Name=Broken
+Facet=0,9,8,9,0,0
+NoOtherAction=1

@@ -1,0 +1,13 @@
+[DefCore]
+id=_PST
+Version=4,9,1,3
+Name=Poster
+Category=1026
+MaxUserSelect=1
+Width=19
+Height=26
+Offset=-9,-13
+Value=5
+Mass=2
+Picture=0,0,19,26
+ 
