@@ -1,0 +1,15 @@
+[Action]
+Name=Sidemove
+Procedure=FLOAT
+Delay=5
+FacetBase=1
+EndCall=Side
+NextAction=Sidemove
+
+[Action]
+Name=Upmove
+Procedure=FLOAT
+Delay=5
+FacetBase=1
+EndCall=Up
+NextAction=Upmove

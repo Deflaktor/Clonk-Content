@@ -1,0 +1,21 @@
+Realismus:
+  Sehr realistische Federung:
+  - Auf unebenem Gelände schaukelt der Panzer
+  - Rückstoß beim Schießen
+  - Schaukeln beim losfahren und anhalten
+  Fährt bei unterschiedlicher Steigung gleich schnell (alle anderen Objekte beschleunigen)
+  Unter Wasser fährt er langsamer und schaukelt kaum
+
+
+Folgendes lässt sich in das Scenario-Script schreiben:
+
+NoTankStealing: return(1);
+  Panzer können nicht von Feinden geklaut werden.
+
+NoTankDeparture: return(1);
+  Der Panzer kann nicht verlassen werden (gut für Panzerkampf-Szenarien).
+
+EndlessTankAmmo: return(C4ID);
+  Die Panzer haben endlos viel Munition von Typ C4ID (z.B.: FLNT). Empfohlene ID: PP7K.
+
+

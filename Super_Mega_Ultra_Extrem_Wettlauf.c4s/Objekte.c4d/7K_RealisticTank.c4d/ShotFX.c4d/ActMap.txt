@@ -1,0 +1,7 @@
+[Action]
+Name=ExistAMoment
+Procedure=FLOAT
+Length=1
+Delay=5
+FacetBase=1
+EndCall=Remove

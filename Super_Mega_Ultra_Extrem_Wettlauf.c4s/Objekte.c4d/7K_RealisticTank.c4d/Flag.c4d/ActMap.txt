@@ -1,0 +1,8 @@
+[Action]
+Name=FlyTank
+Procedure=ATTACH
+Directions=9
+Length=6
+Delay=3
+Facet=0,12,24,12
+NextAction=FlyTank

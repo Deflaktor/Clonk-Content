@@ -1,0 +1,9 @@
+[Action]
+Name=TIKTAK
+NextAction=TIKTAK
+Length=4
+Delay=5
+Facet=0,0,16,16
+Directions=1
+Procedure=FLOAT
+PhaseCall=CheckGround

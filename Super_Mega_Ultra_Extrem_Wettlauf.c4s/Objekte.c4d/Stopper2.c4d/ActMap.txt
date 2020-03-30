@@ -1,0 +1,17 @@
+[Action]
+Name=Close
+Procedure=FLOAT
+Directions=2
+Delay=5
+FacetBase=1
+NextAction=Close
+StartCall=CheckOpen
+
+[Action]
+Name=Open
+Procedure=FLOAT
+Directions=2
+Delay=30
+Facet=90,0,90,77
+NextAction=Open
+EndCall=Close

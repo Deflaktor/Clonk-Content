@@ -1,0 +1,1 @@
+Eine Funkbombe, die zuerst gelegt werden kann und dann per Tastendruck gezündet wird. Werden mehrere Funkbomben auf einmal gelegt, dann explodieren alle Funkbomben auf einmal.

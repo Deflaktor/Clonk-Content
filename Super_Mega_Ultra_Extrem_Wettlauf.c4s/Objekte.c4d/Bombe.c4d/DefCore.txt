@@ -1,0 +1,11 @@
+[DefCore]
+id=BCFB
+Name=BM-FunkBombe
+Category=1
+Width=16
+Height=16
+Offset=-8,-8
+Components=BCFB=1;
+Picture=0,0,16,16
+PictureFE=0,0,16,16
+ 

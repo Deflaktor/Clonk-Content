@@ -1,0 +1,8 @@
+[DefCore]
+id=MEN1
+Name=Menü
+Category=1
+Picture=0,0,16,16
+Vertices=1
+VertexY=30
+VertexX=-1

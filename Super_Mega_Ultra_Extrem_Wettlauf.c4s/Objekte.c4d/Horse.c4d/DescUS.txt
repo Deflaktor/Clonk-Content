@@ -1,0 +1,5 @@
+Grab to walk the horse 'left' or 'right'.
+
+Get on with 'jump'. The horse can walk, trot, or gallop. In gallop, jump with control 'up'. Get off with control double 'down'.
+
+Double click 'dig' to tie to a wagon.

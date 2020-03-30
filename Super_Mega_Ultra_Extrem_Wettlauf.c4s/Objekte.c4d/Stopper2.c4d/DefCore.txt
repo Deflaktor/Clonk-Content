@@ -1,0 +1,14 @@
+[DefCore]
+id=STO2
+Name=Stopper
+Category=1
+MaxUserSelect=1
+Width=90
+Height=77
+Offset=-45,-39
+Picture=0,0,90,77 
+SolidMask=0,0,90,77,0,0
+Float=1
+
+[Physical]
+Float=50

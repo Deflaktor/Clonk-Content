@@ -1,0 +1,14 @@
+[DefCore]
+id=CIR2
+Name=HauptKreis
+Category=1
+Width=16
+Height=16
+Offset=-8,-8
+Value=10
+Mass=10
+Picture=0,0,16,16
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=100

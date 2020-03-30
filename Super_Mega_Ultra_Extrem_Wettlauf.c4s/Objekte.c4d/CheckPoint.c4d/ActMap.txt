@@ -1,0 +1,17 @@
+[Action]
+Name=Los
+Delay=1
+Facet=0,0,16,16
+Procedure=FLOAT
+Length=1
+NextAction=Los
+PhaseCall=Test
+
+[Action]
+Name=Goal
+Delay=1
+Facet=16,0,16,16
+Procedure=FLOAT
+Length=1
+NextAction=Goal
+PhaseCall=Test

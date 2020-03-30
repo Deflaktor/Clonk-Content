@@ -1,0 +1,12 @@
+[DefCore]
+id=_CP1
+Name=Checkpoint
+Category=16
+Width=16
+Height=16
+Offset=-8,-8
+Components=_RD1=1;
+Picture=16,0,16,16
+Vertices=1
+VertexY=1
+VertexFriction=20

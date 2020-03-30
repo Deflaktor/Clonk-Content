@@ -1,0 +1,16 @@
+[DefCore]
+id=SPE2
+Name=Bouncer
+Category=4
+MaxUserSelect=1
+Width=20
+Height=3
+Offset=-10,-1
+Mass=10
+Components=METL=3;
+Picture=0,0,20,3
+Vertices=2
+VertexY=1,1
+VertexX=-9,9
+VertexFriction=100,100
+SolidMask=0,0,20,3,0,0

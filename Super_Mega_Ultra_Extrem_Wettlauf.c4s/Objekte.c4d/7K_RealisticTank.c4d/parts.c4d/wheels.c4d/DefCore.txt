@@ -1,0 +1,30 @@
+[DefCore]
+id=PW7K
+Version=4,6,2
+Name=PhysicalTankWheels
+Category=4
+TimerCall=AdaptRotation
+Timer=1
+ContactCalls=0
+Width=33
+Height=21
+Offset=-16,-10
+Value=50
+Mass=50
+Components=METL=4;
+Picture=0,21,41,28
+Vertices=5
+VertexX=   0,0, -8,  8,  0
+VertexY=  -5,0,-17,-17,-23
+VertexCNAT=0,8
+VertexFriction=100,100,100,100,100,100
+Rebuy=1
+Rotate=1
+BorderBound=1
+ColorByOwner=1
+
+[Physical]
+Energy=70000
+Walk=50000
+Push=100000
+ 
