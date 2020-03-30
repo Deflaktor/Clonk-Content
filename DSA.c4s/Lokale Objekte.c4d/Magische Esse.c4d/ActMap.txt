@@ -1,0 +1,13 @@
+[Action]
+Name=pojhngDjhNC
+Delay=3
+Length=16
+Facet=30,0,30,30,0,0
+NextAction=none
+PhaseCall=Sparkle
+EndCall=
+NextAction=pojhngDjhNC
+
+[Action]
+Name=idle
+FacetBase=1

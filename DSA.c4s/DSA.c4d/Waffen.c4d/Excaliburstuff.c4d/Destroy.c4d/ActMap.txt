@@ -1,0 +1,8 @@
+[Action]
+Name=Los
+Procedure=FLOAT
+NextAction=NONE
+Delay=5
+Length=4
+Facet=0,0,8,8
+EndCall=undweg

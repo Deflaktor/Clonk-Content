@@ -1,0 +1,16 @@
+[DefCore]
+id=WK3A
+Name=Wirselkraut
+Category=16
+Width=6
+Height=6
+Offset=-3,-3
+Value=10
+Mass=1
+Components=WOOD=1;
+Picture=6,0,28,28
+Vertices=2
+VertexY=1,-1
+VertexFriction=20
+Collectible=1
+ 

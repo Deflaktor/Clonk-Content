@@ -1,0 +1,12 @@
+[DefCore]
+id=HZB3
+Version=4,0,2
+Name=Atemlos
+Category=131072
+Width=1
+Height=1
+Value=20
+Picture=0,0,37,32
+Timer=1
+TimerCall=tick
+ 

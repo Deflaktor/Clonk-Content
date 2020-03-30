@@ -1,0 +1,16 @@
+[Action]
+Name=inluft
+Delay=1
+FacetBase=1
+Procedure=FLOAT
+PhaseCall=checkinwasser
+NextAction=inluft
+
+[Action]
+Name=inwasser
+Delay=1
+FacetBase=1
+Procedure=FLOAT
+PhaseCall=checkinluft
+NextAction=inwasser
+

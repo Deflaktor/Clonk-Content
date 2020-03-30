@@ -1,0 +1,6 @@
+[Action]
+Name=wait
+Delay=100
+Procedure=ATTACH
+NextAction=wait
+EndCall=wachs

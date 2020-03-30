@@ -1,0 +1,17 @@
+[DefCore]
+id=AL3A
+Name=Alraune
+Category=16400
+Width=7
+Height=3
+Offset=-4,-1
+Value=4
+Mass=1
+Components=WOOD=1;
+Picture=7,0,32,32
+Vertices=2
+VertexY=1,-1
+VertexFriction=20
+Collectible=1
+Rotate=1
+MaxUserSelect=10

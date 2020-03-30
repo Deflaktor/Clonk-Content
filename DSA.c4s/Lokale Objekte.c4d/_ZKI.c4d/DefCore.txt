@@ -1,0 +1,16 @@
+[DefCore]
+id=_ZKI
+Name=Heiliger Kristall des Ingerimms
+Category=16
+Width=6
+Height=4
+Offset=-3,-3
+Value=50
+Mass=20
+Components=_ZKI=1;
+Picture=6,0,34,34
+Vertices=1
+VertexY=1
+VertexFriction=20
+Collectible=1
+ 

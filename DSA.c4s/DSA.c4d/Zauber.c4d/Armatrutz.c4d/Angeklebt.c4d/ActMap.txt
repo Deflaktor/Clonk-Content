@@ -1,0 +1,10 @@
+[Action]
+Name=Klaaskleber
+Procedure=ATTACH
+NextAction=NONE
+Delay=1500
+Facet=0,0,7,18
+EndCall=daswars
+
+[Action]
+blablabla

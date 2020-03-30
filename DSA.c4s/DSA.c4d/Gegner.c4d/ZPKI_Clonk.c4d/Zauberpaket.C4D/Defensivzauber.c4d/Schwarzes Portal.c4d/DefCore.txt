@@ -1,0 +1,19 @@
+[DefCore]
+id=HZB6
+Version=4,0,2
+Name=Schwarzes Portal
+Category=131072
+Width=13
+Height=13
+Offset=-6,-6
+Value=20
+Picture=128,0,64,63
+StretchGrowth=1
+Entrance=-28,-28,56,56
+Oversize=1
+TimerCall=kreis
+Timer=1
+Grab=2
+GrabPutGet=3
+Exclusive=1
+ 

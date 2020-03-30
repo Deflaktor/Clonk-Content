@@ -1,0 +1,11 @@
+[DefCore]
+id=HTM9
+Version=4,6,2
+Name=Manapfeil
+Category=131072
+Width=1
+Height=1
+Value=7
+Picture=0,0,40,40
+
+ 

@@ -1,0 +1,19 @@
+[DefCore]
+id=PK3A
+Name=Kaputter Pfeil
+Category=16
+MaxUserSelect=0
+Width=8
+Height=7
+Offset=-4,-3
+Value=0
+Mass=1
+Components=WOOD=0;
+Picture=8,0,60,38
+Vertices=2
+VertexY=-3,3
+VertexFriction=100,100
+Collectible=1
+Rotate=1
+Float=1
+TimerCall=BruceWillis

@@ -1,0 +1,11 @@
+[DefCore]
+id=_ZIF
+Name=Ziffer
+Category=2
+Width=11
+Height=18
+Offset=-5,-9
+Picture=0,0,11,18
+TimerCall=Go
+Timer=1
+StretchGrowth=1

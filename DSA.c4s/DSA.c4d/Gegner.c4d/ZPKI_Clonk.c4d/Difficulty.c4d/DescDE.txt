@@ -1,0 +1,2 @@
+Schwierigkeitsgrad der Zauberpack KI.
+Umso höher, desto mehr Zauber setzt sie ein und umso aggresiver verhält sie sich.

@@ -1,0 +1,10 @@
+[DefCore]
+id=_ZPX
+Name=Alle KIs müssen getötet werden.
+Version=4,9,1,3
+Category=33
+MaxUserSelect=1
+Width=1
+Height=1
+Picture=0,0,125,73
+TimerCall=check

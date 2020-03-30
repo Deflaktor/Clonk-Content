@@ -1,0 +1,15 @@
+[DefCore]
+id=GI3A
+Name=Gift
+Category=1
+MaxUserSelect=10
+Width=1
+Height=1
+Offset=-1,-1
+Value=0
+Mass=0
+Components=GI3A=1;
+Picture=0,0,1,1
+Vertices=0
+VertexFriction=20
+ 

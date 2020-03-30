@@ -1,0 +1,21 @@
+[DefCore]
+id=BF3A
+Name=Band und Fessel
+Category=131088
+Value=30
+Mass=0
+Components=DFLM=10;
+Width=10
+Height=5
+Offset=-5,-2
+Picture=0,15,38,38
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=5,5
+MaxUserSelect=1
+ColorByOwner=1
+
+
+[Physical]
+Float=500

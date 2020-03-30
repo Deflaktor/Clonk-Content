@@ -1,0 +1,2 @@
+Der Clonk schleudert einen Eisball, der bei einem Treffer den entsprechenden Clonk kurzzeitig einfriert. Mit "Sonnenwind" wird das Auftauen enorm beschleunigt, mit "kalter Atem" dagegen verlangsamt!
+

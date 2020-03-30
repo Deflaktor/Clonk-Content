@@ -1,0 +1,20 @@
+[DefCore]
+id=HB3A
+Version=4,4,3
+Name=Hylaier Bombe
+Category=3600
+MaxUserSelect=2
+Width=8
+Height=8
+Offset=-4,-4
+Value=20
+Mass=12
+Components=SP3A=2;OE3A=1;
+Picture=8,0,30,33
+Vertices=2
+VertexX=0,0
+VertexY=-3,3
+VertexFriction=120,120
+Rebuy=1
+Collectible=1
+Rotate=1

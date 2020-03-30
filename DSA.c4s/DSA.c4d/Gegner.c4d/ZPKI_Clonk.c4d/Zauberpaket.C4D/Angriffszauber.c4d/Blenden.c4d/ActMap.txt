@@ -1,0 +1,10 @@
+[Action]
+Name=blend
+Length=1
+Delay=500
+FacetBase=1
+EndCall=rem
+PhaseCall=wolke
+Procedure=FLOAT
+
+

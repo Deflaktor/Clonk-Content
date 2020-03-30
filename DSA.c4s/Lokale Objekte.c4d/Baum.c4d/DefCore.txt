@@ -1,0 +1,15 @@
+[DefCore]
+id=_V01
+Name=Jahreszeiten Baum
+Category=32769
+MaxUserSelect=1
+Width=140
+Height=167
+Offset=-70,-85
+Value=100
+Mass=1000
+Components=WOOD=100;
+Picture=0,0,140,170
+TimerCall=Control
+Timer=10
+ 

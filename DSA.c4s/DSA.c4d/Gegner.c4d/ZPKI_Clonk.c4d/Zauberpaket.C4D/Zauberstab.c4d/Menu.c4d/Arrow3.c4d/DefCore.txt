@@ -1,0 +1,9 @@
+[DefCore]
+id=_ZM3
+Name=MenuItemZauberstab3
+Version=4,9,1,3
+Category=1
+Width=1
+Height=1
+Picture=0,0,40,40
+ 

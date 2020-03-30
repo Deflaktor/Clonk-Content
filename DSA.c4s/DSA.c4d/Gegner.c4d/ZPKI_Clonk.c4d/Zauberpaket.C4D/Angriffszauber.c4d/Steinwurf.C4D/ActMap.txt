@@ -1,0 +1,7 @@
+[Action]
+Name=wait
+Procedure=FLOAT
+EndCall=ThrowRock
+Delay=5
+FacetBase=1
+

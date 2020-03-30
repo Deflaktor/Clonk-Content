@@ -1,0 +1,13 @@
+[Action]
+Name=Zu
+Procedure=NONE
+FacetBase=1
+NextAction=Zu
+StartCall=None
+
+[Action]
+Name=Offen
+Procedure=NONE
+Facet=0,18,13,18
+NextAction=Offen
+StartCall=None

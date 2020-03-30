@@ -1,0 +1,1 @@
+Schaltet ein Falltor. Wenn er oben ist, kann man es auch von der anderen Seite öffnen.

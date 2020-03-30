@@ -1,0 +1,13 @@
+[DefCore]
+id=HZA5
+Version=4,0,2
+Name=Gift
+Category=131072
+Width=1
+Height=1
+Value=30
+Mass=0
+Picture=0,0,40,40
+Timer=3600
+TimerCall=rem
+ 

@@ -1,0 +1,19 @@
+[DefCore]
+id=R43A
+Name=Rezept für Zaubertrank F
+Category=3600
+MaxUserSelect=3
+Value=10
+Width=7
+Height=2
+Offset=-3,-1
+Mass=0
+Components=KI3A=2;AL3A=1;GL3A=1;
+Picture=7,0,30,31
+Vertices=2
+VertexX=-3,3
+VertexY=1,1
+VertexFriction=200,200
+Rebuy=1
+Collectible=1
+Rotate=1

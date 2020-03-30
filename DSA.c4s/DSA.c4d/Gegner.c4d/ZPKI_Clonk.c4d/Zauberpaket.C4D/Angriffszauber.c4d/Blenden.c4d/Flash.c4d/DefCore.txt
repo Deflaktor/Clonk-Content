@@ -1,0 +1,12 @@
+[DefCore]
+id=_FLS
+Name=Flash
+Version=4,9,1,3
+Category=1
+Width=1
+Height=1
+Mass=1
+Picture=0,0,40,40
+Vertices=0
+
+ 

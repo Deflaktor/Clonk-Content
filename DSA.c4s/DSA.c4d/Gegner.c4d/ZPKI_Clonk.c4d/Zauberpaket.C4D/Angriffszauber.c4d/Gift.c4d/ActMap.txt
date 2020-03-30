@@ -1,0 +1,9 @@
+[Action]
+Name=gift
+Length=1
+Delay=45
+FacetBase=1
+EndCall=schaden
+NextAction=gift
+Procedure=FLOAT
+PhaseCall=wolke

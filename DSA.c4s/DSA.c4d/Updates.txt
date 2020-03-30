@@ -1,0 +1,4 @@
+Änderungen in Version 1.1:
+-Descs und Namen einiger Objekte wurden korrigiert.
+-Austausch der Scripte des Monolithen, sodass jetzt die sichere Variante standard ist.
+-Deftigen Bug beseitigt, welche Gesprächspartner in Schlaufen verfallen liess, sodass das menu immer wieder aufging. (dank an Markus)

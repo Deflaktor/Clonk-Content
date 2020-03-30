@@ -1,0 +1,9 @@
+[Action]
+Name=Los
+Procedure=FLOAT
+NextAction=Los
+Delay=1
+Length=8
+Directions=2
+PhaseCall=CheckforHit
+Facet=0,0,10,5

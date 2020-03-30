@@ -1,0 +1,8 @@
+[Action]
+Name=schweigneinidschowider
+Procedure=ATTACH
+Delay=5
+Length=8
+Facet=0,0,60,65
+EndCall=sterb
+PhaseCall=wechdamit

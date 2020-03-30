@@ -1,0 +1,15 @@
+[DefCore]
+id=_FLH
+Name=Hilfsobjekt
+Category=4
+Width=17
+Height=20
+Offset=-8,-10
+Picture=0,0,60,60
+Vertices=1
+VertexFriction=100
+Rotate=1
+Oversize=1
+StretchGrowth=1
+IncompleteActivity=1
+ 

@@ -1,0 +1,6 @@
+[Action]
+Name=Be
+Procedure=FLOAT
+Delay=50
+NextAction=Be
+EndCall=Erstellen

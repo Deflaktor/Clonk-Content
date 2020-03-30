@@ -1,0 +1,19 @@
+[DefCore]
+id=ZF3A
+Name=Zaubertrank F
+Category=3600
+MaxUserSelect=3
+Value=40
+Width=8
+Height=8
+Offset=-4,-4
+Mass=2
+Components=KI3A=2;AL3A=1;GL3A=1;
+Picture=8,0,30,33
+Vertices=2
+VertexX=0,0
+VertexY=-3,3
+VertexFriction=120,120
+Rebuy=1
+Collectible=1
+Rotate=1

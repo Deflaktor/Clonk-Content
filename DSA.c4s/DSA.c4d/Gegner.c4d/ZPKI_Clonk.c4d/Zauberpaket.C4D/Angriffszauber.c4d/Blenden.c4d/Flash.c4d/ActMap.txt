@@ -1,0 +1,6 @@
+[Action]
+Name=Advance
+Procedure=NONE
+Delay=1
+NextAction=Advance
+StartCall=adv

@@ -1,0 +1,16 @@
+[DefCore]
+id=EB3A
+Name=Einbeere
+Category=16
+Width=8
+Height=3
+Offset=-4,-1
+Value=1
+Mass=1
+Components=WOOD=1;
+Picture=8,0,52,48
+Vertices=2
+VertexY=1,-1
+VertexFriction=20
+Collectible=1
+Rotate=1

@@ -1,0 +1,13 @@
+[Action]
+Name=Launch
+NextAction=Launch
+Length=1
+Delay=1
+PhaseCall=InFlight
+FacetBase=1
+
+[Action]
+Name=DieHard
+Length=1
+Delay=60
+FacetBase=1

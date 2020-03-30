@@ -1,0 +1,2 @@
+Der Zauberer kann 3 Zauber kombinieren.
+Dies bringt den Vorteil, dass er sie in brenzligen Situationen alle zusammen einsetzen kann.

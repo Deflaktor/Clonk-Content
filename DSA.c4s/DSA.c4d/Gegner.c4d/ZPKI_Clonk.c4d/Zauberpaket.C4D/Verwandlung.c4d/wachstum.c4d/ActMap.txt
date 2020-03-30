@@ -1,0 +1,4 @@
+[Action]
+Name=wait
+Delay=900
+EndCall=rem

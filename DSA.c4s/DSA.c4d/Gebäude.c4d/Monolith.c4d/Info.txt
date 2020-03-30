@@ -1,0 +1,4 @@
+ACHTUNG: Benötigt Global(0)! (Beim Gate)
+
+Wenn so erschaffen, erhält der Monolith einen Namen:
+ObjectCall(CreateConstruction(MN3A),"Namensgebung", "pName" );

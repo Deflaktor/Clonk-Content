@@ -1,0 +1,11 @@
+Beherrschung
+Dies sind Zauber, die nur auf Lebewesen angewendet werden können. (Band und Fessel, Grosse Verwirrung).
+
+Kampfzauber
+Diese Verletzen Gegner. (Ignifaxius, Fulminictus).
+
+Bewegungszauber
+Hiermit kann sich der Magier besser fortbewegen. (Axxeleratus, Krötensprung).
+
+Heilzauber
+Erklärt sich von selbst. (Balsamsalabunde)

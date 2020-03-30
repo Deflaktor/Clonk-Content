@@ -1,0 +1,18 @@
+[DefCore]
+id=_S09
+Name=Okkulter Schrein
+Category=130
+MaxUserSelect=1
+Width=34
+Height=32
+Offset=-17,-16
+Value=200
+Mass=100
+Picture=414,4,33,33
+Vertices=2
+VertexX=17,-17
+VertexY=18,18
+VertexFriction=20,20
+Grab=1
+
+ 

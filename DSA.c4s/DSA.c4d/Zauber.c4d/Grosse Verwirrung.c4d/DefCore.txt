@@ -1,0 +1,21 @@
+[DefCore]
+id=GV3A
+Name=Grosse Verwirrung
+Category=131088
+Value=15
+Mass=0
+Components=DFLM=10;
+Width=10
+Height=5
+Offset=-5,-2
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=5,5
+MaxUserSelect=1
+ColorByOwner=1
+Picture=0,10,40,40
+
+
+[Physical]
+Float=500

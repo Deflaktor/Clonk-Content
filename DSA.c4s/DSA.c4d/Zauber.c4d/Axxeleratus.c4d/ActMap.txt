@@ -1,0 +1,6 @@
+[Action]
+Name=TuWirken
+Delay=1000
+Length=1
+Facet=1,1,1,1
+EndCall=TuNichtMehrWirken

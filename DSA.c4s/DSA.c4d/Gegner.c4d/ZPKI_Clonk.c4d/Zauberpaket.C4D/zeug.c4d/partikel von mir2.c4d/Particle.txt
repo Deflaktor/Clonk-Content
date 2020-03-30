@@ -1,0 +1,15 @@
+[Particle]
+Name=gift
+MaxCount=30
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,40,40
+Delay=80
+Repeats=3
+Reverse=0
+GravityAcc=0
+nFadeOutLen=4
+nFadeOutDelay=4
+AlphaFade=10
+Additive=1

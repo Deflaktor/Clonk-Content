@@ -1,0 +1,16 @@
+[DefCore]
+id=ZE3A
+Name=Zorn der Elemente
+Category=131088
+Value=35
+Mass=0
+Components=DFLM=11;
+Width=6
+Height=6
+Offset=-3,-3
+Picture=20,0,54,50
+Vertices=2
+VertexX=0,0
+VertexY=0,6
+VertexFriction=5,5
+MaxUserSelect=1

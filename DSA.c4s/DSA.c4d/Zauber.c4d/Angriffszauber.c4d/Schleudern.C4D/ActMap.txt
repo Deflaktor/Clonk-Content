@@ -1,0 +1,17 @@
+[Action]
+Name=Travel
+Procedure=FLOAT
+NextAction=Travel
+StartCall=Travel
+Lenght=1
+Delay=1
+FacetBase=1
+
+[Action]
+Name=Travelw
+Procedure=FLOAT
+EndCall=CastMeteor
+Lenght=1
+Delay=5
+FacetBase=1
+

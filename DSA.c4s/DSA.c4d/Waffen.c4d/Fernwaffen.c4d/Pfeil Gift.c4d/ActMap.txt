@@ -1,0 +1,14 @@
+[Action]
+Name=Launch
+NextAction=Launch
+Length=1
+Delay=1
+PhaseCall=InFlight
+FacetBase=1
+
+[Action]
+Name=Giftigifti
+Length=20
+Delay=40
+Facet=0,37,1,1
+EndCall=AdeDuSchnoedeWelt

@@ -1,0 +1,9 @@
+[Action]
+Name=Active
+Procedure=NONE
+Length=10
+Delay=1
+Facet=0,0,0,0
+NextAction=Active
+EndCall=Ende
+PhaseCall=Brenn

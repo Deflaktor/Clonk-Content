@@ -1,0 +1,8 @@
+[Action]
+Name=wait
+Procedure=FLOAT
+Directions=1
+Length=1
+Delay=55
+FacetBase=1
+EndCall=los

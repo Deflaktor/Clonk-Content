@@ -1,0 +1,13 @@
+[Action]
+Name=gumpli
+Delay=12
+Length=1
+FacetBase=1
+EndCall=linkz
+
+[Action]
+Name=gumpre
+Delay=12
+Length=1
+FacetBase=1
+EndCall=rekz

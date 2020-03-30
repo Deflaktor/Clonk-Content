@@ -1,0 +1,10 @@
+[DefCore]
+id=_M04
+Name=MenuBefehl
+Category=16
+Width=35
+Height=35
+Offset=-17,-17
+Picture=0,0,35,35
+ColorByOwner=1
+Value=1

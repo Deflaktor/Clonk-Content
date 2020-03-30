@@ -1,0 +1,26 @@
+Hit:
+  Sound("bottle");
+  return(1);
+Activate:
+  if(GetID(Par(0))==KR3A||GetID(Par(0))==KRRA)
+    return(0);
+
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  DoMagicEnergy(1,Par(0));
+  //Sound("Magic1");
+  CreateObject(GL3A);
+  RemoveObject(this());
+  return(1);

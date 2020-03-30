@@ -1,0 +1,7 @@
+[Action]
+Name=0Beere
+Procedure=NONE
+Length=1
+Delay=800
+Facet=0,0,16,22
+NextAction=0Beere

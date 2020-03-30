@@ -1,0 +1,12 @@
+[Action]
+Name=White
+Procedure=FLOAT
+Delay=0
+Facet=11,0,11,17
+
+[Action]
+Name=Black
+Procedure=FLOAT
+Delay=0
+Facet=0,0,11,17
+

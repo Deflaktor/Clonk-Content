@@ -1,0 +1,17 @@
+[DefCore]
+id=_WDA
+Name=Wächter der Arena
+Category=2
+Value=20
+Mass=50
+Components=CLNK=1;
+Width=15
+Height=24
+Offset=-7,-12
+Picture=0,0,15,24
+Vertices=1
+VertexX=0
+VertexY=12
+VertexFriction=250
+Entrance=-6,-18,12,35
+ColorByOwner=1

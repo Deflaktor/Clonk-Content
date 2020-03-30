@@ -1,0 +1,15 @@
+[Action]
+Name=clonk
+Procedure=FLOAT
+Delay=1
+NextAction=clonk
+Facet=128,20,17,20
+
+[Action]
+Name=att
+Procedure=ATTACH
+NextAction=att
+Delay=1
+Facet=0,0,1,1
+
+

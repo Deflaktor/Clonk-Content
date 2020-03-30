@@ -1,0 +1,3 @@
+Nur der Krieger kann diese Zweihandwaffe verwenden.
+Werfen: Bannstrahl wird abgefeuert
+Doppelgraben: Magiebann

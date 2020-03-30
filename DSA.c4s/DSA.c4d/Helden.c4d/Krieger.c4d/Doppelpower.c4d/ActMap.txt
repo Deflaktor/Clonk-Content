@@ -1,0 +1,5 @@
+[Action]
+Name=wait
+Delay=2000
+Procedure=ATTACH
+EndCall=rem

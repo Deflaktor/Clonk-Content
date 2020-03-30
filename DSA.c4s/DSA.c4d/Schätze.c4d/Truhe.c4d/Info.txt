@@ -1,0 +1,2 @@
+Per ObjectCall(CreateObject(TR3A),"Bonus", pID , pAnzahl);
+kann zusätzer Inhalt erstellt werden.

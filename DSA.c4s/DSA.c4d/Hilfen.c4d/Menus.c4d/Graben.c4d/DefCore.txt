@@ -1,0 +1,7 @@
+[DefCore]
+id=YG3A
+Name=Graben
+Category=16
+Picture=0,0,32,40
+ColorByOwner=1
+ 

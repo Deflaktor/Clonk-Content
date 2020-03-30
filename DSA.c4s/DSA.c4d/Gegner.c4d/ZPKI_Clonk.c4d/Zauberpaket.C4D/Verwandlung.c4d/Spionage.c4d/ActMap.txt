@@ -1,0 +1,11 @@
+[Action]
+Name=wait
+Delay=1000
+Procedure=ATTACH
+EndCall=rem
+
+[Action]
+Name=waitX
+Delay=1
+Procedure=ATTACH
+NextAction=waitX

@@ -1,0 +1,17 @@
+[DefCore]
+id=AR3A
+Name=Armatrutz
+Category=16
+Value=15
+Mass=0
+Components=DFLM=10;
+Width=7
+Height=8
+Offset=-3,-4
+Picture=0,10,7,8
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=5,5
+MaxUserSelect=1
+ColorByOwner=0

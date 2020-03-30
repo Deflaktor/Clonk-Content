@@ -1,0 +1,17 @@
+[DefCore]
+id=KI3A
+Name=Kairan(7)
+Category=16
+Width=5
+Height=2
+Offset=-4,-1
+Value=7
+Mass=1
+Components=WOOD=1;
+Picture=5,0,32,32
+Vertices=2
+VertexY=1,-1
+VertexFriction=20
+Collectible=1
+Rotate=1
+MaxUserSelect=10

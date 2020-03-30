@@ -1,0 +1,16 @@
+[DefCore]
+id=ST3A
+Name=Sprengteil
+Category=16
+Value=1
+Mass=0
+Components=DFLM=1;
+Width=5
+Height=5
+Offset=-3,-3
+Picture=0,0,5,5
+Vertices=2
+VertexX=0,0
+VertexY=0,5
+VertexFriction=5,5
+MaxUserSelect=1

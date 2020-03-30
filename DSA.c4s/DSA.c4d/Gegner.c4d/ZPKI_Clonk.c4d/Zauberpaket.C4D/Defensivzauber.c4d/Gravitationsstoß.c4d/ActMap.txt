@@ -1,0 +1,6 @@
+[Action]
+Name=wait
+Delay=20
+FacetBase=1
+EndCall=rem
+Procedure=FLOAT

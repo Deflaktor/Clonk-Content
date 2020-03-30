@@ -1,0 +1,3 @@
+Helden für Fantasy-Abenteuer.
+
+Wenn es jemanden stört, dass er seine Standardcrew nicht verwenden kann, dann muss er einen Ritter auf die ID KR3A und einen Zauberclonk auf MA3A ändern. Die Physicals blieben weitgehend unverändert. Der Waldläufer unterscheidet sich zu stark, muss also sicher neu erstellt werden.

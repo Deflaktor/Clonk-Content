@@ -1,0 +1,20 @@
+[DefCore]
+id=MB3A
+Name=Magischer Beutel
+Category=3600
+MaxUserSelect=3
+Width=7
+Height=9
+Offset=-4,-4
+Value=50
+Mass=2
+Components=MB3A=1;
+Picture=7,0,32,32
+Vertices=4
+VertexX=-4,4 ,-4,4
+VertexY=-6,-6,4,4
+VertexFriction=150,150,150,150
+Rebuy=1
+CollectionLimit=0
+Grab=2
+GrabPutGet=3

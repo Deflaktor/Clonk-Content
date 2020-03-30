@@ -1,0 +1,9 @@
+[DefCore]
+id=HH00
+Name=include
+Category=1
+Width=1
+Height=1
+Offset=-1,-1
+Mass=0
+Picture=0,0,1,1

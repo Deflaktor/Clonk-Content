@@ -1,0 +1,33 @@
+Diese Zaubersprüche sind die letzten der sogenannten "Goldenen Zauber".
+Das Wissen um ihre Existenz ging vor Hunderten vor Jahren in dem 30-jährigen
+Krieg zwischen den alten Königreichen Südstein und Nebelburg verloren.
+Nur wenige kennen heute noch ihre Macht und nur ein Bruchteil der weisesten Magier
+vermag sie einzusetzen.
+
+Nur NewGfx!
+
+Grafiken von Matthäus Beyrle/kumopen
+
+Nähere Angaben siehe Info (Doppelklick auf Zauberpaket und dann auf INFO klicken)
+
+Version 1 FV (Final Version)
+
+M.A.J.O.R.
+
+PS: Es ist ein kleiner Easteregg versteckt!
+(Er ist aber in Netzwerkspielen deaktiviert!!!)
+Damit ihr nicht ewig sucht oder den kompletten Code lesen müsst (*g*), gebe ich euch einen Tipp:
+Erstmal müsst ihr eine bestimmt Anzahl Gold und Lehm suchen.
+Die genaue Menge ist wichtig.
+Wieviel das ist, erfahrt ihr im folgenden Rätsel, bei dem eine Zahl herauskommt.
+Die erste Ziffer gibt die Menge an Gold an, die zweite die Menge Lehm.
+Beispiel:
+23 = 2 Gold und 3 Lehm
+
+Und nun das Rätsel:
+In einer Schachtel befinden sich 4 weitere Schachteln in denen jeweils noch 3 Schachteln enthalten sind. Wieviele Schachteln sind es insgesamt? 
+
+Startet das Spiel auf einer mittelgroßen Karte ohne Hügel, etc. Platziert die Lehm- und Goldklumpen an einer Stelle. Nicht mehr und nicht weniger; passt auf das es nicht zu viel sind! Dann öffnet ihr das Zaubermenü und wählt "Zauberkombos setzten" mit der RECHTEN Maustaste oder mit [Special2] aus und ihr erfahrt etwas über die Geschichte des Zauberpacketes... 
+
+
+ 

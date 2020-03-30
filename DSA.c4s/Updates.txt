@@ -1,0 +1,4 @@
+Änderungen in Version 1.1:
+-Descs und Namen einiger Objekte wurden korrigiert.
+-Austausch der Scenario.txt, sodass jetzt "1 spieler" standard ist.
+-Deftigen Bug beseitigt, welche Gesprächspartner in Schlaufen verfallen liess, sodass das menu immer wieder aufging. (dank an Markus)

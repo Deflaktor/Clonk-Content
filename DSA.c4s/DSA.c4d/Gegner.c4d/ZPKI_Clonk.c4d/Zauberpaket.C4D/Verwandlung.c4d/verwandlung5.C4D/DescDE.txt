@@ -1,0 +1,3 @@
+Verwandelt den Clonk für ca. 60s in einen Haifisch.
+Beute suchen per Grabtaste.
+Zurückverwandeln per Doppelgraben.

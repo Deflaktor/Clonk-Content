@@ -1,0 +1,4 @@
+Spezial1: Inventarwechsel
+Spezial2: Namen des Gegenstands anzeigen Ladestatus von Excalibur
+DoppelSpezial2: Beschreibung des Gegenstandes anzeigen
+

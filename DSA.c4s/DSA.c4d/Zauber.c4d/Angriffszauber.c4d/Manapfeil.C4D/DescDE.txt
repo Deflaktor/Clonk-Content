@@ -1,0 +1,1 @@
+Schleudert einen (effektvollen) schnellen Schuss in die Bewegungsrichtung, der nur Lebewesen verletzen kann.

@@ -1,0 +1,1 @@
+Schleudert einen Meteor in die Bewegungsrichtung.

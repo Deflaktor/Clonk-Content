@@ -1,0 +1,2 @@
+Entzieht allen nahen,feindlichen Personen Manaenergie und gibt sie dem Zauberer.
+Nur bei größeren Gruppen von Leuten sinnvoll.

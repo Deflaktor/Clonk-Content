@@ -1,0 +1,6 @@
+[Action]
+Name=wait
+Delay=1
+NextAction=wait
+PhaseCall=check
+Procedure=FLOAT

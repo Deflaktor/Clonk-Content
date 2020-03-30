@@ -1,0 +1,10 @@
+[DefCore]
+id=__SA
+Name=Schadensanzeige
+Category=2
+Width=3
+Height=3
+Offset=-3,-3
+Picture=6,0,52,48
+TimerCall=Go
+Timer=1

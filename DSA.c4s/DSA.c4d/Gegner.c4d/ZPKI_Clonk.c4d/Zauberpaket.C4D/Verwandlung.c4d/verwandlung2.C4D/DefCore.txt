@@ -1,0 +1,9 @@
+[DefCore]
+id=HHZ3
+Version=4,5,1
+Name=Verwandlung in einen Wipf
+Category=131072
+Width=1
+Height=1
+Value=25
+Picture=0,0,40,40

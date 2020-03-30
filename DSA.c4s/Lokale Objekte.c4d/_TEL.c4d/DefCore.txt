@@ -1,0 +1,17 @@
+[DefCore]
+id=_TEL
+Name=Teleporter
+Category=2
+Value=20
+Mass=50
+Components=CLNK=1;
+Width=12
+Height=19
+Offset=-6,-18
+Picture=0,0,12,19
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=100
+Entrance=-6,-18,12,19
+ColorByOwner=1

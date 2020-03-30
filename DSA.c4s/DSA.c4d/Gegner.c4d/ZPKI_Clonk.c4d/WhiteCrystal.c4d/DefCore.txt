@@ -1,0 +1,25 @@
+[DefCore]
+id=_ZPB
+Name=Weiﬂer Kristall
+Version=4,9,1,3
+Category=2576
+MaxUserSelect=5
+Width=10
+Height=10
+Offset=-5,-5
+Value=50
+Mass=10
+Components=CRYS=10;
+Picture=10,0,35,35
+Vertices=3
+VertexX=-4,1,4
+VertexY=-4,4,-4
+VertexFriction=50,50,50
+Rebuy=1
+Collectible=1
+Rotate=1
+ColorByMaterial=Crystal
+NoBurnDecay=1
+BlastIncinerate=35
+TimerCall=check
+ 

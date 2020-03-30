@@ -1,0 +1,15 @@
+[Action]
+Name=Burn
+Delay=20
+FacetBase=1
+NextAction=Burn
+StartCall=test
+Sound=Fire
+
+[Action]
+Name=Machaus
+Delay=5
+FacetBase=1
+Lenght=5
+NextAction=Machaus
+PhaseCall=loesch

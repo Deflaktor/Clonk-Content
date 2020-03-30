@@ -1,0 +1,7 @@
+[Action]
+Name=schutz
+Delay=1
+FacetBase=1
+Procedure=FLOAT
+PhaseCall=psch
+NextAction=schutz

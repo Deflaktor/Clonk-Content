@@ -1,0 +1,16 @@
+[DefCore]
+id=_ZKH
+Name=Heiliger Kristall der Hesinde
+Category=16
+Width=6
+Height=4
+Offset=-3,-3
+Value=50
+Mass=20
+Components=_ZKH=1;
+Picture=6,0,34,34
+Vertices=1
+VertexY=1
+VertexFriction=20
+Collectible=1
+ 

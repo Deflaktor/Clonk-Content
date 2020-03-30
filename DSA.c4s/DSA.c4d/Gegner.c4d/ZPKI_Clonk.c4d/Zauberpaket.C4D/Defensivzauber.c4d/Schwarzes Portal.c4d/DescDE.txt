@@ -1,0 +1,5 @@
+Öffnet ein Wurmloch zu einem ausgewählten Menüpunkt.
+Das Wurmloch bleibt kurze Zeit geöffnet. In dieser Zeit kann man jeden beliebigen Gegenstand hineinschieben und so mitteleportieren.
+(Anfassen ist ebenfalls möglich)
+Hier möchte ich noch ck danke sagen, da er mir einige Fragen hierzu beantwortet hat(vor allem Grafiktechnische).
+^^

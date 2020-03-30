@@ -1,0 +1,15 @@
+[Action]
+Name=Field1
+Procedure=FLOAT
+Delay=1000
+Facet=0,0,90,46
+EndCall=Destroy
+Sound=Energy
+
+[Action]
+Name=Field2
+Procedure=FLOAT
+Delay=1000
+Facet=0,46,90,46
+EndCall=Destroy
+Sound=Energy

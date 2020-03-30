@@ -1,0 +1,16 @@
+[DefCore]
+id=_I10
+Name=Wichtige Truhe 1
+Category=2
+Width=13
+Height=18
+Offset=-6,-9
+Value=25
+Mass=5000
+Components=WOOD=3;METL=1
+Picture=0,0,13,18
+Vertices=2
+VertexX=7,-7
+VertexY=9,9
+VertexFriction=300
+Grab=2

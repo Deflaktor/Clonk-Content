@@ -1,0 +1,33 @@
+Rezepte:
+
+Heiltrank C:
+1 Glasflasche
+1 Wirselkraut
+
+Heiltrank E):
+1  Glasflasche
+10 Einbeeren
+
+Zaubertrank C:
+1 Glasflasche
+1 Kairan
+
+Zaubertrank F:
+1 Glasflasche
+1 Alraune
+2 Kairane
+
+Hylaier Feuer:
+1 Glasflasche
+2 Schnaps
+1 Öl
+
+Hylaier Pfeil:
+1 Normaler Pfeile
+1 Öl
+1 Schnaps
+
+Giftpfeil:
+1 Normaler Pfeil
+1 Alraune
+

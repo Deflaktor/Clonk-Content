@@ -1,0 +1,13 @@
+[Action]
+Name=GateBlack
+Procedure=FLOAT
+Delay=10
+Facet=0,0,11,50
+NextAction=GateBlack
+
+[Action]
+Name=GateWhite
+Procedure=FLOAT
+Delay=10
+Facet=15,0,11,50
+NextAction=GateWhite

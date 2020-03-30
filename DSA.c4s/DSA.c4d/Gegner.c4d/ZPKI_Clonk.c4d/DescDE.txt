@@ -1,0 +1,28 @@
+Ein KI-Gegner. Benötigt das ZAUBERPACK Version 1 FV von M.A.J.O.R. -> www.CCAN.de
+Sollte nicht als Mannschaftsobjekt eingestellt werden, wenn doch kann man ihn Sachen sammeln lassen(Specialmenü,Sammeln -> alllerdings noch experimentell)
+Schwierigkeitsgrad muss in Szenarioeigenschaften unter Umweltobjekte eingestellt werden.
+Je höher, umso aggresiver Verhält sich die KI und um so mehr Zauber stehen ihr zur Verfügung.
+Sie sollte vor allem in Karten mit eingestelltem, schnellen Aufladen des Zauberstabs eingesetzt werden
+oder in Karten mit hohen Vorkommen loser Kristalle im Erdreich.
+Wenn "Seelenfraß" eingeschaltet ist(->Umweltobjekte<-), saugen die ZauberKIs toten Clonks die Seele aus dem Leib und machen sie zu einen von ihnen.
+Eine andere Möglichkeit zur Erhaltung ihrer Population bietet "Reproduktion" (ebenfalls unter Umweltobjekte). Diese Einstellung ist identisch mit "Nachwuchs", gilt jedoch nur für Zauberpack KI´s.
+---Story---
+Ihre genauen Namen kennt niemand, viele nennen sie "dunkle Brüder" ,und ihre Geschichte spielt in einer fernen Vergangenheit:
+
+Kurz vor dem Krieg zwischen den alten Königreichen Südstein und Nebelburg. Damals erkannten die Nebelburger, dass
+sie in einem direketen Kampf niemals Erfolg haben würden. Also versuchten sie ein Dimensionstor in eine andere Welt zu öffnen und
+Hilfe zu holen. Durch dieses Portal kamen die ersten "Brüder", wie die Magier sie hoffnungsvoll nannten.
+Sie kämpften einige Zeit lang an der Seite der Nebelbürger. Doch bald entdecken diese auch die Kehrtseite der Medaille:
+Eines Abends, als die meisten Nebelburger schon schliefen, sammelten die "Brüder" sich an einer Feuerstelle nahe der Leichenhalle
+der Burg. Als sie sich unbeobachtet fühlten, begannen sie die Leichen nach und nach vor sich zu legen und zu verhexen.
+Diese erwachten zu neuem Leben und mussten fortan den Wesen dienen, ohne Chance auf Erlösung.
+Dann begannen sie ein Portal in ihre Heimatwelt zu öffnen, um die Erde zu unterwerfen.
+Die Magier handelten schnell und forderten Hilfe an,doch als das Portal erst offen war, konnten sie es nicht mehr schließen. Dunkle Schattenwesen drangen hindurch und 
+begruben viele Magier unter sich. Da taten die letzten überlebenden das einzig Mögliche, um der ewigen Verdammnis der Knechtschaft der dunklen Brüder 
+zu entrinnen: Sie flohen aus der Stadt, sammelten ihr ganze Kraft und ließen die Stadt in einem riesigen Feuerball verbrennen.
+Doch einige der Wesen entkamen...
+
+M.A.J.O.R.
+
+ 
+

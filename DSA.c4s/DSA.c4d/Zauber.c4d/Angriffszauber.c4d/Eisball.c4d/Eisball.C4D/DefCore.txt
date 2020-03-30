@@ -1,0 +1,15 @@
+[DefCore]
+id=_FSE
+Version=4,6,2
+Name=Eisball
+Category=4
+Width=12
+Height=13
+Offset=-6,-6
+Value=1
+Picture=0,0,12,13
+Vertices=1
+VertexFriction=100
+Rotate=1
+
+ 

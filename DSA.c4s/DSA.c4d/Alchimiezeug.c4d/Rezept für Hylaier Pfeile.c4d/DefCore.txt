@@ -1,0 +1,19 @@
+[DefCore]
+id=R73A
+Name=Rezept für Hylaier Pfeile
+Category=3600
+MaxUserSelect=3
+Value=10
+Width=7
+Height=2
+Offset=-3,-1
+Mass=0
+Components=P13A=1;OE3A=1;SP3A=1;
+Picture=7,0,30,31
+Vertices=2
+VertexX=-3,3
+VertexY=1,1
+VertexFriction=200,200
+Rebuy=1
+Collectible=1
+Rotate=1

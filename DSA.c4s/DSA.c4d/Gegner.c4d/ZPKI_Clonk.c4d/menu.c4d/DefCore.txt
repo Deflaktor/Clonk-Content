@@ -1,0 +1,9 @@
+[DefCore]
+id=_MN1
+Name=Menu symbol
+Version=4,9,1,3
+Category=1
+Width=6
+Height=6
+Picture=0,0,41,35
+ 

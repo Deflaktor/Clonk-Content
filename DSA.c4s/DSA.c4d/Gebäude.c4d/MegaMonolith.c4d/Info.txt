@@ -1,0 +1,2 @@
+ACHTUNG: Legt Global(0) als this() fest.
+Das zweite Script ist zwar instabiler, aber komfortabler. Siehe info.txt im Hauptordner.

@@ -1,0 +1,10 @@
+[DefCore]
+id=SC3A
+Name=Schalter
+Category=2
+Width=11
+Height=17
+Offset=-5,-8
+Picture=11,0,11,17
+Vertices=0
+Grab=2

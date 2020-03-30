@@ -1,0 +1,12 @@
+[Action]
+Name=Wait
+Delay=50
+FacetBase=1
+NextAction=Ready
+
+[Action]
+Name=Ready
+Delay=1
+FacetBase=1
+NextAction=Ready
+

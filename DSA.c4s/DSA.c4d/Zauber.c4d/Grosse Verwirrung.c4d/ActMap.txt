@@ -1,0 +1,17 @@
+[Action]
+Name=Los
+Procedure=FLOAT
+NextAction=Los
+Delay=1
+Length=12
+PhaseCall=CheckforHit
+Facet=0,0,10,5
+
+[Action]
+Name=Daswars
+Procedure=FLOAT
+Delay=3
+Length=4
+Facet=0,5,10,5
+PhaseCall=BleibDa
+NextAction=Daswars

@@ -1,0 +1,10 @@
+[Material]
+Name=Crystal
+Color=144,156,228,200,212,252,232,232,232
+Shape=2
+Density=50
+Friction=80
+MaxAirSpeed=100
+MaxSlide=1
+BlastFree=1
+ 

@@ -1,0 +1,17 @@
+[DefCore]
+id=B23A
+Name=Brech ihn
+Category=16
+Value=15
+Mass=0
+Components=DFLM=10;
+Width=60
+Height=65
+Offset=-30,-30
+Picture=0,0,60,65
+Vertices=1
+VertexX=0
+VertexY=0
+VertexFriction=5,5
+MaxUserSelect=1
+ColorByOwner=0
