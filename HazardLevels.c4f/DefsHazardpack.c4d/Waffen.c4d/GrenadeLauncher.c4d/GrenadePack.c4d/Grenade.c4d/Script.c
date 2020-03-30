@@ -24,8 +24,8 @@ TimerTick:
 Dmg: return(15);
 
 BlowUp:
-  ObjectCall(CreateObject(EXPL),"Launch",Dmg()+5);
   RemoveObject();
+  ObjectCall(CreateObject(EXPL),"Launch",Dmg()+5);
   return(1);
 
 /* Aktivierung */

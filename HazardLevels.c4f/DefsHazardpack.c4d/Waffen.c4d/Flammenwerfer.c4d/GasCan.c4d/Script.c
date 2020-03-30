@@ -7,16 +7,25 @@ Hit:
   Sound("ClonkHit*");
   return(1);
 
-Damage:
-  if(GetDamage()<10&&!OnFire())
-    return(1);
-  CastObjects(DFLM, 10, 15 );
+private func Damaged()
+{
   SetVar(0,CreateContents(_AE3));
   Exit(Var(0),0,0,Random(360), Sum(Random(7),-3), Sum(Random(3),-8), +10);
-  Incinerate(Var(0));
   RemoveObject();
+  CastObjects(DFLM, 10, 15);
+  Incinerate(Var(0));
   ObjectCall(CreateObject(EXPL),"Launch",35); 
   return(1);
+}
+
+protected func Damage()
+{
+  if(GetDamage()<10&&!OnFire())
+    return(1);
+  // Verzögert zerstören um Endlosrekursion zu verhindern
+  Schedule(Format("Object(%d)->~Damaged()",ObjectNumber(this)),1);
+  return(1);
+}
 
 Initialize:
   return(1);
