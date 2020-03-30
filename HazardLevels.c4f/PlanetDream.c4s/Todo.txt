@@ -1,0 +1,45 @@
+schalter zu weit oben links neben cola automat
+sichtbarer spawnpoint
+kreuzung machen
+batterien für kraftfeldgenerator machen
+automatische selbstschussanlage schießt immmer links weil chippies  in der kiste sind
+wartungskanal hinter den spinden ist zu weit oben
+dunkle türen mehr HP und nur wenn alle generatoren an sind
+energiezelle für teleporter
+löcher zu weite oben für den nuker und weniger gehen, ist zuviel schon
+medikits sollen löschen
+Säure fließt raus beim generator O.o
+granaten neben dem 1. flammenwerfer bei der explosionskiste
+eiswerfer friert nicht richtig ein
+energiezellen einheit
+randomizer local (0) neu initialisieren
+Schalter für kontrollraum ist zu weit oben
+Selbstschussanlagen zu schwer zum kaputt machen
+Schrumpferpack in wasserbecken bei shockwave emitter
+Falsche Local in Schalter bei Disruptor (Verkehrte steuerung)
+Ebenso verkehrte Steuerung bei unterste Tor
+Ebenso verkehrte Steuerung im Kontrollraum
+Ebenso verkehrte Steuerung links neben der Kreuzung
+Ein Schalter zu viel im Kontrollraum Oberste Muss nicht sein
+Keine Dronen
+Drone bleibt hängen bei ersten Waypoint
+Flammenwerfer soll bereits geladen sein in der Explosionskiste
+Mehr munition für LaserMG
+Kein Zurück mehr bei Nuklearrakete
+Fucked up Steuerung 2. oberste schranke
+Verkehrte Steuerung im einsamen Turm
+Leere Räume füllen mit Zufallsgenerator
+Türen besser machen
+Verkehrte Steuerung im Aufzugschacht ganz links
+Kartendisplay ändern und dass die punkte nicht raus gehen
+Luke in Lava zu weit oben, man bleibt stecken für atomwaffe
+
+waffen ideen:
+
+Schnelle Schallpistole mit Energiezelle als Munition
+vergiftungswaffe
+
+Weitere Ideen:
+
+Ozarkfabrik
+Genmanipulierter Ozark

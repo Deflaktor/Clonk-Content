@@ -1,0 +1,3 @@
+TxtMovement=Move
+TxtDrop=Drop item
+TxtLeave=Retransform

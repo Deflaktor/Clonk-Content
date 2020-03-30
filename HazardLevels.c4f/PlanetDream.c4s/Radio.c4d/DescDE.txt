@@ -1,0 +1,1 @@
+Teleportiert den Träger zu einen fest definierten Punkt.

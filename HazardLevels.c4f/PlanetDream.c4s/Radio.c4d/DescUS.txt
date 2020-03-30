@@ -1,0 +1,1 @@
+Teleports the user to a certain place.
