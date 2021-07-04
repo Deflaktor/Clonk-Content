@@ -1,10 +1,10 @@
 [Material]
 Name=Metal
-Color=120,120,120,150,150,150,180,180,180
+Color=45,45,45,15,15,15,75,75,75
 Shape=0
 Density=50
 Friction=100
 MaxAirSpeed=100
 MaxSlide=250
 BlastShiftTo=Metal3
- 
+Placement=25

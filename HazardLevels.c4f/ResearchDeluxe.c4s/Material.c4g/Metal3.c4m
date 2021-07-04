@@ -1,6 +1,6 @@
 [Material]
 Name=Metal3
-Color=130,130,130,160,160,160,190,190,190
+Color=50,50,50,17,17,17,82,82,82
 Shape=0
 Density=50
 Friction=100

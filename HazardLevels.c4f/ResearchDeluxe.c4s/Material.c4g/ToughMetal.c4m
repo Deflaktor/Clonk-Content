@@ -1,10 +1,10 @@
 [Material]
 Name=ToughMetal
-Color=100,100,100,130,130,130,150,150,150
+Color=45,45,45,15,15,15,75,75,75
 Shape=0
 Density=50
 Friction=100
 MaxAirSpeed=100
 MaxSlide=250
 BlastShiftTo=
- 
+Placement=25
