@@ -80,3 +80,7 @@ MapScreen zeigt HazardKIs an
 Auf den Knopf drücken damit die Platform kommt fokusiert die Kamera nicht
 Eingefronee Moff wird unsichtbar
 Nach der Arena geht strom aus und Typ mit Blitzer spawnt zu weit oben
+HazardKI Kann Lifte Bewegen trotz keine Energie
+Moff kann Einfrieren und stirbt nicht und wird unsichtbar -> In der Arena führt das zu einem Lock
+Als Variante: Arena zeitgetriggert freischalten damit kein Softlock
+Orbs sollen offensichtler werden was sie tun
