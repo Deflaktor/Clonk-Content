@@ -66,7 +66,7 @@ HalbeExplosionen:
   return(RemoveObject());
   
 KeineGrenzen:
-  CreateObject(_NOB,0,0,GetOwner());
+  CreateObject(_NOD,0,0,GetOwner());
   ObjectCall(SetVar(1,CreateObject(_RN1,0,-45)),"RandomHelps");
   Message("Keine Grenzen!",Var(1));
   return(RemoveObject());
