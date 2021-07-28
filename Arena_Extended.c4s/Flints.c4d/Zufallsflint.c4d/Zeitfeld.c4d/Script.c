@@ -24,7 +24,7 @@ CreateHelper:
 
 Activity:
 SetLocal(3,Sum(Local(3),1));
-if (Local(3)>200)
+if (Local(3)>80)
   return(Remove());
 
 while(SetVar(0,FindObject(0,-GetCon()/2,-GetCon()/2,GetCon(),GetCon(),0,0,0,NoContainer(),Var(0))))

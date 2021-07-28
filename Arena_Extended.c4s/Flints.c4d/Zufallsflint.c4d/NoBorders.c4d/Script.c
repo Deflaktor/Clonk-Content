@@ -21,7 +21,7 @@ Remove:
 
 Check:
   SetLocal(3,Sum(Local(3),1));
-  if (Local(3)>1000)
+  if (Local(3)>300)
     return(Remove());
   // Oben
   while(Var()=FindObject(0,0,0,LandscapeWidth(),200,0,0,0,0,Var()))

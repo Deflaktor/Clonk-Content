@@ -5,13 +5,17 @@ static letzterZufall;
 
 
 /* Zufallsflint */
-
+Redefine:
+  if(Contained())
+    while(ScrollContents(Contained())!=this()) {}
+  return(1);
+  
 /* Aufschlag */
 
 ZufallsQuatsch:
   letzterZufall = FrameCounter();
   var rand;
-  rand = Random(14);
+  rand = Random(15);
   Sound("EventDo");
   if(rand<=3) if(ZeichneFlintKreis()) return(1);
   if(rand==4) return(Platztausch());
@@ -22,12 +26,15 @@ ZufallsQuatsch:
   if(rand==9) return(VielErde());
   if(rand==10) if(!Random(18)) return(AlleVerbessern());
   if(rand==11) if(!Random(20)) return(Bombeneinheit());
-  if(rand==12) return(Panzer());
+  if(rand==12) if(!Random(10)) return(Panzer());
   if(rand==13) return(Saugen());
+  if(rand==14 && GetOwner()!=-1) return(LaserAreaShot());
   return(ZufallsQuatsch());
 
 Hit:
-  if(FrameCounter()-letzterZufall>500&&!Random(10)||FrameCounter()-letzterZufall>30*40&&!Random(2)||GetOwner()!=-1&&!Random(5)) {
+  if(FrameCounter()-letzterZufall>500 && !Random(10) ||
+  	 FrameCounter()-letzterZufall>30*40 && !Random(2)||
+  	 GetOwner()!=-1 && !Random(10)) {
     return(ZufallsQuatsch());
   }
   // Explodieren mit einer Explosionsstärke von 1 - 60
@@ -37,7 +44,14 @@ Hit:
   // Stärke über dem Hilfsobjekt auslesen
   Message("Stärke: %d/60",Var(1),Var(0));
   return(1);
-  
+
+LaserAreaShot:
+  SetLocal(0,CreateObject(_LAS,0,0,GetOwner()));
+  ObjectCall(Local(0),"Launch",GetCrew(GetOwner(),0));
+  ObjectCall(SetVar(1,CreateObject(_RN1,0,-45)),"RandomHelps");
+  Message("Energie abzapfen!",Var(1));
+  return(RemoveObject()); 
+
 Saugen:
   SetLocal(0,CreateObject(SWE7,0,0,GetOwner()));
   ObjectSetAction(Local(0),"Implode");

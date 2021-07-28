@@ -1,0 +1,17 @@
+[DefCore]
+id=_LAS
+Version=4,6,1
+Name=Laser-Area-Shot
+Category=16
+Width=10
+Height=10
+Offset=-5,-5
+Mass=1
+Picture=0,0,4,10
+Vertices=2
+VertexX=-10,10,0,0
+VertexY=0,0,-5,5
+StretchGrowth=1
+Oversize=1
+BorderBound=1
+IncompleteActivity=1
